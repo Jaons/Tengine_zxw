@@ -1,0 +1,172 @@
+10
+
+dir
+1
+svn://192.168.73.133/project/tengine-2.2.0/auto/lib
+svn://192.168.73.133/project
+
+
+
+2017-06-29T07:25:05.877486Z
+1
+root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cd0a0c4a-ed4a-47e2-8489-c5d445ecba55
+
+test
+file
+
+
+
+
+2017-06-29T08:32:29.242517Z
+a54abf9d46bea35784f7b3aae324921c
+2017-06-29T07:25:05.877486Z
+1
+root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+555
+
+lua
+dir
+
+libxslt
+dir
+
+libgd
+dir
+
+openssl
+dir
+
+md5
+dir
+
+conf
+file
+
+
+
+
+2017-06-29T08:32:29.242517Z
+3d8bb81e70f0dc16efc0698ef1ad1266
+2017-06-29T07:25:05.877486Z
+1
+root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1716
+
+libyajl
+dir
+
+jemalloc
+dir
+
+google-perftools
+dir
+
+pcre
+dir
+
+sha1
+dir
+
+zlib
+dir
+
+perl
+dir
+
+libatomic
+dir
+
+geoip
+dir
+
+make
+file
+
+
+
+
+2017-06-29T08:32:29.244517Z
+74058090d32a2bd89341757f84e1bdaa
+2017-06-29T07:25:05.877486Z
+1
+root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+715
+

@@ -1,0 +1,30 @@
+./configure --prefix=${Nginx_INSTALLDIR} \
+	--lock-path=${Nginx_INSTALLDIR}/lock \
+	--with-file-aio \
+    --with-audit \
+	--with-debug \
+	--with-mail \
+    --with-zlib=/root/zlib-1.2.11 \
+    --with-pcre=/root/pcre-8.40 \
+	--with-mail_ssl_module \
+	--http-client-body-temp-path=${Nginx_INSTALLDIR}/http_client_body_temp \
+	--http-proxy-temp-path=${Nginx_INSTALLDIR}/http_proxy_temp \
+	--http-fastcgi-temp-path=${Nginx_INSTALLDIR}/http_fastcgi_temp \
+	--without-http_uwsgi_module \
+	--without-http_scgi_module \
+	--without-http_browser_module \
+	--with-http_ssl_module \
+	--with-http_realip_module \
+	--with-http_sub_module \
+	--with-http_flv_module \
+	--with-http_mp4_module \
+	--with-http_gzip_static_module \
+	--with-http_gunzip_module \
+	--with-http_secure_link_module \
+	--with-http_stub_status_module \
+    --dso-path=${Nginx_INSTALLDIR}/dso  \
+    --dso-tool-path=${Nginx_INSTALLDIR}/dso_tool    
+
+    #--with-ld-opt="-Wl,-rpath,/usr/lib" \
+    #--add-module=/root/tengine-2.2.0/modules/ngx_devel_kit-0.3.0 \
+    #--add-module=/root/tengine-2.2.0/modules/ngx_http_lua_module

@@ -1,0 +1,1264 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AUX_MARK	./ngx_http_lua_util.c	129;"	d	file:
+CLFACTORY_BEGIN_CODE	./ngx_http_lua_clfactory.c	18;"	d	file:
+CLFACTORY_BEGIN_SIZE	./ngx_http_lua_clfactory.c	19;"	d	file:
+CLFACTORY_END_CODE	./ngx_http_lua_clfactory.c	21;"	d	file:
+CLFACTORY_END_SIZE	./ngx_http_lua_clfactory.c	22;"	d	file:
+DDEBUG	./ngx_http_lua_accessby.c	9;"	d	file:
+DDEBUG	./ngx_http_lua_args.c	9;"	d	file:
+DDEBUG	./ngx_http_lua_bodyfilterby.c	9;"	d	file:
+DDEBUG	./ngx_http_lua_cache.c	9;"	d	file:
+DDEBUG	./ngx_http_lua_capturefilter.c	9;"	d	file:
+DDEBUG	./ngx_http_lua_clfactory.c	9;"	d	file:
+DDEBUG	./ngx_http_lua_config.c	8;"	d	file:
+DDEBUG	./ngx_http_lua_consts.c	9;"	d	file:
+DDEBUG	./ngx_http_lua_contentby.c	9;"	d	file:
+DDEBUG	./ngx_http_lua_control.c	9;"	d	file:
+DDEBUG	./ngx_http_lua_coroutine.c	9;"	d	file:
+DDEBUG	./ngx_http_lua_ctx.c	8;"	d	file:
+DDEBUG	./ngx_http_lua_directive.c	9;"	d	file:
+DDEBUG	./ngx_http_lua_exception.c	9;"	d	file:
+DDEBUG	./ngx_http_lua_headerfilterby.c	8;"	d	file:
+DDEBUG	./ngx_http_lua_headers.c	9;"	d	file:
+DDEBUG	./ngx_http_lua_headers_in.c	8;"	d	file:
+DDEBUG	./ngx_http_lua_headers_out.c	9;"	d	file:
+DDEBUG	./ngx_http_lua_initby.c	8;"	d	file:
+DDEBUG	./ngx_http_lua_initworkerby.c	8;"	d	file:
+DDEBUG	./ngx_http_lua_log.c	9;"	d	file:
+DDEBUG	./ngx_http_lua_logby.c	8;"	d	file:
+DDEBUG	./ngx_http_lua_misc.c	9;"	d	file:
+DDEBUG	./ngx_http_lua_module.c	9;"	d	file:
+DDEBUG	./ngx_http_lua_ndk.c	8;"	d	file:
+DDEBUG	./ngx_http_lua_output.c	2;"	d	file:
+DDEBUG	./ngx_http_lua_pcrefix.c	9;"	d	file:
+DDEBUG	./ngx_http_lua_phase.c	8;"	d	file:
+DDEBUG	./ngx_http_lua_regex.c	8;"	d	file:
+DDEBUG	./ngx_http_lua_req_body.c	8;"	d	file:
+DDEBUG	./ngx_http_lua_req_method.c	8;"	d	file:
+DDEBUG	./ngx_http_lua_rewriteby.c	9;"	d	file:
+DDEBUG	./ngx_http_lua_script.c	8;"	d	file:
+DDEBUG	./ngx_http_lua_setby.c	9;"	d	file:
+DDEBUG	./ngx_http_lua_shdict.c	8;"	d	file:
+DDEBUG	./ngx_http_lua_sleep.c	9;"	d	file:
+DDEBUG	./ngx_http_lua_socket_tcp.c	8;"	d	file:
+DDEBUG	./ngx_http_lua_socket_udp.c	8;"	d	file:
+DDEBUG	./ngx_http_lua_string.c	8;"	d	file:
+DDEBUG	./ngx_http_lua_subrequest.c	9;"	d	file:
+DDEBUG	./ngx_http_lua_time.c	9;"	d	file:
+DDEBUG	./ngx_http_lua_timer.c	8;"	d	file:
+DDEBUG	./ngx_http_lua_uri.c	9;"	d	file:
+DDEBUG	./ngx_http_lua_uthread.c	8;"	d	file:
+DDEBUG	./ngx_http_lua_util.c	9;"	d	file:
+DDEBUG	./ngx_http_lua_variable.c	9;"	d	file:
+DDEBUG	./ngx_http_lua_worker.c	8;"	d	file:
+LJ20_BCDUMP_VERSION	./ngx_http_lua_clfactory.c	276;"	d	file:
+LJ20_BIG_ENDIAN_CODE	./ngx_http_lua_clfactory.c	243;"	d	file:
+LJ20_BIG_ENDIAN_CODE_STRIPPED	./ngx_http_lua_clfactory.c	233;"	d	file:
+LJ20_LITTLE_ENDIAN_CODE	./ngx_http_lua_clfactory.c	238;"	d	file:
+LJ20_LITTLE_ENDIAN_CODE_STRIPPED	./ngx_http_lua_clfactory.c	228;"	d	file:
+LJ21_BCDUMP_VERSION	./ngx_http_lua_clfactory.c	275;"	d	file:
+LJ21_BIG_ENDIAN_CODE	./ngx_http_lua_clfactory.c	265;"	d	file:
+LJ21_BIG_ENDIAN_CODE_STRIPPED	./ngx_http_lua_clfactory.c	255;"	d	file:
+LJ21_LITTLE_ENDIAN_CODE	./ngx_http_lua_clfactory.c	260;"	d	file:
+LJ21_LITTLE_ENDIAN_CODE_STRIPPED	./ngx_http_lua_clfactory.c	250;"	d	file:
+LJ_BCDUMP_F_BE	./ngx_http_lua_clfactory.c	273;"	d	file:
+LJ_BCDUMP_F_STRIP	./ngx_http_lua_clfactory.c	274;"	d	file:
+LJ_CODE_LEN	./ngx_http_lua_clfactory.c	270;"	d	file:
+LJ_CODE_LEN_STRIPPED	./ngx_http_lua_clfactory.c	271;"	d	file:
+LJ_HEADERSIZE	./ngx_http_lua_clfactory.c	272;"	d	file:
+LJ_SIGNATURE	./ngx_http_lua_clfactory.c	277;"	d	file:
+LUAC_HEADERSIZE	./ngx_http_lua_clfactory.c	76;"	d	file:
+LUAC_VERSION	./ngx_http_lua_clfactory.c	77;"	d	file:
+LUA_BIG_ENDIAN_4BYTES_CODE	./ngx_http_lua_clfactory.c	67;"	d	file:
+LUA_BIG_ENDIAN_4BYTES_CODE_LEN	./ngx_http_lua_clfactory.c	74;"	d	file:
+LUA_BIG_ENDIAN_8BYTES_CODE	./ngx_http_lua_clfactory.c	69;"	d	file:
+LUA_BIG_ENDIAN_8BYTES_CODE_LEN	./ngx_http_lua_clfactory.c	75;"	d	file:
+LUA_DEFAULT_CPATH_LEN	./ngx_http_lua_util.c	248;"	d	file:
+LUA_DEFAULT_PATH_LEN	./ngx_http_lua_util.c	235;"	d	file:
+LUA_HAVE_PCRE_DFA	./ngx_http_lua_regex.c	31;"	d	file:
+LUA_HAVE_PCRE_DFA	./ngx_http_lua_regex.c	33;"	d	file:
+LUA_HAVE_PCRE_JIT	./ngx_http_lua_regex.c	24;"	d	file:
+LUA_HAVE_PCRE_JIT	./ngx_http_lua_regex.c	26;"	d	file:
+LUA_LITTLE_ENDIAN_4BYTES_CODE	./ngx_http_lua_clfactory.c	62;"	d	file:
+LUA_LITTLE_ENDIAN_4BYTES_CODE_LEN	./ngx_http_lua_clfactory.c	72;"	d	file:
+LUA_LITTLE_ENDIAN_8BYTES_CODE	./ngx_http_lua_clfactory.c	64;"	d	file:
+LUA_LITTLE_ENDIAN_8BYTES_CODE_LEN	./ngx_http_lua_clfactory.c	73;"	d	file:
+LUA_PATH_SEP	./ngx_http_lua_util.c	126;"	d	file:
+MAX_BEGIN_CODE_SIZE	./ngx_http_lua_clfactory.c	159;"	d	file:
+MAX_END_CODE_SIZE	./ngx_http_lua_clfactory.c	162;"	d	file:
+MD5_DIGEST_LENGTH	./ngx_http_lua_common.h	35;"	d
+NGX_HTTP_LUA_BT_DEPTH	./ngx_http_lua_util.c	61;"	d	file:
+NGX_HTTP_LUA_BT_MAX_COROS	./ngx_http_lua_util.c	66;"	d	file:
+NGX_HTTP_LUA_CONTEXT_ACCESS	./ngx_http_lua_common.h	90;"	d
+NGX_HTTP_LUA_CONTEXT_BODY_FILTER	./ngx_http_lua_common.h	94;"	d
+NGX_HTTP_LUA_CONTEXT_CONTENT	./ngx_http_lua_common.h	91;"	d
+NGX_HTTP_LUA_CONTEXT_HEADER_FILTER	./ngx_http_lua_common.h	93;"	d
+NGX_HTTP_LUA_CONTEXT_INIT_WORKER	./ngx_http_lua_common.h	96;"	d
+NGX_HTTP_LUA_CONTEXT_LOG	./ngx_http_lua_common.h	92;"	d
+NGX_HTTP_LUA_CONTEXT_REWRITE	./ngx_http_lua_common.h	89;"	d
+NGX_HTTP_LUA_CONTEXT_SET	./ngx_http_lua_common.h	88;"	d
+NGX_HTTP_LUA_CONTEXT_TIMER	./ngx_http_lua_common.h	95;"	d
+NGX_HTTP_LUA_COPY_ALL_VARS	./ngx_http_lua_subrequest.c	25;"	d	file:
+NGX_HTTP_LUA_CO_DEAD	./ngx_http_lua_common.h	/^    NGX_HTTP_LUA_CO_DEAD      = 3, \/* coroutine dead *\/$/;"	e	enum:__anon13
+NGX_HTTP_LUA_CO_NORMAL	./ngx_http_lua_common.h	/^    NGX_HTTP_LUA_CO_NORMAL    = 2, \/* coroutine normal *\/$/;"	e	enum:__anon13
+NGX_HTTP_LUA_CO_RUNNING	./ngx_http_lua_common.h	/^    NGX_HTTP_LUA_CO_RUNNING   = 0, \/* coroutine running *\/$/;"	e	enum:__anon13
+NGX_HTTP_LUA_CO_SUSPENDED	./ngx_http_lua_common.h	/^    NGX_HTTP_LUA_CO_SUSPENDED = 1, \/* coroutine suspended *\/$/;"	e	enum:__anon13
+NGX_HTTP_LUA_CO_ZOMBIE	./ngx_http_lua_common.h	/^    NGX_HTTP_LUA_CO_ZOMBIE    = 4, \/* coroutine zombie *\/$/;"	e	enum:__anon13
+NGX_HTTP_LUA_FFI_BAD_CONTEXT	./ngx_http_lua_common.h	101;"	d
+NGX_HTTP_LUA_FFI_NO_REQ_CTX	./ngx_http_lua_common.h	100;"	d
+NGX_HTTP_LUA_FILE_KEY_LEN	./ngx_http_lua_common.h	64;"	d
+NGX_HTTP_LUA_FILE_TAG	./ngx_http_lua_common.h	59;"	d
+NGX_HTTP_LUA_FILE_TAG_LEN	./ngx_http_lua_common.h	61;"	d
+NGX_HTTP_LUA_INLINE_KEY_LEN	./ngx_http_lua_common.h	54;"	d
+NGX_HTTP_LUA_INLINE_TAG	./ngx_http_lua_common.h	49;"	d
+NGX_HTTP_LUA_INLINE_TAG_LEN	./ngx_http_lua_common.h	51;"	d
+NGX_HTTP_LUA_MAX_ARGS	./ngx_http_lua_common.h	78;"	d
+NGX_HTTP_LUA_MAX_HEADERS	./ngx_http_lua_common.h	83;"	d
+NGX_HTTP_LUA_SHARE_ALL_VARS	./ngx_http_lua_subrequest.c	24;"	d	file:
+NGX_HTTP_LUA_SHDICT_ADD	./ngx_http_lua_shdict.c	39;"	d	file:
+NGX_HTTP_LUA_SHDICT_REPLACE	./ngx_http_lua_shdict.c	40;"	d	file:
+NGX_HTTP_LUA_SHDICT_SAFE_STORE	./ngx_http_lua_shdict.c	41;"	d	file:
+NGX_HTTP_LUA_SOCKET_FT_BUFTOOSMALL	./ngx_http_lua_socket_tcp.h	18;"	d
+NGX_HTTP_LUA_SOCKET_FT_CLIENTABORT	./ngx_http_lua_socket_tcp.h	21;"	d
+NGX_HTTP_LUA_SOCKET_FT_CLOSED	./ngx_http_lua_socket_tcp.h	16;"	d
+NGX_HTTP_LUA_SOCKET_FT_ERROR	./ngx_http_lua_socket_tcp.h	14;"	d
+NGX_HTTP_LUA_SOCKET_FT_NOMEM	./ngx_http_lua_socket_tcp.h	19;"	d
+NGX_HTTP_LUA_SOCKET_FT_PARTIALWRITE	./ngx_http_lua_socket_tcp.h	20;"	d
+NGX_HTTP_LUA_SOCKET_FT_RESOLVER	./ngx_http_lua_socket_tcp.h	17;"	d
+NGX_HTTP_LUA_SOCKET_FT_SSL	./ngx_http_lua_socket_tcp.h	22;"	d
+NGX_HTTP_LUA_SOCKET_FT_TIMEOUT	./ngx_http_lua_socket_tcp.h	15;"	d
+NGX_HTTP_LUA_SUBREQ_TRUNCATED	./ngx_http_lua_common.h	/^    NGX_HTTP_LUA_SUBREQ_TRUNCATED = 1$/;"	e	enum:__anon14
+NGX_HTTP_LUA_USER_CORO_NOP	./ngx_http_lua_common.h	/^    NGX_HTTP_LUA_USER_CORO_NOP      = 0,$/;"	e	enum:__anon12
+NGX_HTTP_LUA_USER_CORO_RESUME	./ngx_http_lua_common.h	/^    NGX_HTTP_LUA_USER_CORO_RESUME   = 1,$/;"	e	enum:__anon12
+NGX_HTTP_LUA_USER_CORO_YIELD	./ngx_http_lua_common.h	/^    NGX_HTTP_LUA_USER_CORO_YIELD    = 2,$/;"	e	enum:__anon12
+NGX_HTTP_LUA_USER_THREAD_RESUME	./ngx_http_lua_common.h	/^    NGX_HTTP_LUA_USER_THREAD_RESUME = 3$/;"	e	enum:__anon12
+NGX_HTTP_SWITCHING_PROTOCOLS	./ngx_http_lua_util.h	69;"	d
+NGX_LUA_BT_LJ	./ngx_http_lua_clfactory.c	/^    NGX_LUA_BT_LJ$/;"	e	enum:__anon3	file:
+NGX_LUA_BT_LUA	./ngx_http_lua_clfactory.c	/^    NGX_LUA_BT_LUA,$/;"	e	enum:__anon3	file:
+NGX_LUA_EXCEPTION_CATCH	./ngx_http_lua_exception.h	18;"	d
+NGX_LUA_EXCEPTION_THROW	./ngx_http_lua_exception.h	21;"	d
+NGX_LUA_EXCEPTION_TRY	./ngx_http_lua_exception.h	15;"	d
+NGX_LUA_READER_BUFSIZE	./ngx_http_lua_clfactory.c	/^    NGX_LUA_READER_BUFSIZE = 4096$/;"	e	enum:__anon4	file:
+NGX_LUA_RE_COMPILE_ONCE	./ngx_http_lua_regex.c	37;"	d	file:
+NGX_LUA_RE_DFA_MODE_WORKSPACE_COUNT	./ngx_http_lua_regex.c	43;"	d	file:
+NGX_LUA_RE_MODE_DFA	./ngx_http_lua_regex.c	38;"	d	file:
+NGX_LUA_RE_MODE_DUPNAMES	./ngx_http_lua_regex.c	40;"	d	file:
+NGX_LUA_RE_MODE_JIT	./ngx_http_lua_regex.c	39;"	d	file:
+NGX_LUA_RE_NO_UTF8_CHECK	./ngx_http_lua_regex.c	41;"	d	file:
+NGX_LUA_TEXT_FILE	./ngx_http_lua_clfactory.c	/^    NGX_LUA_TEXT_FILE,$/;"	e	enum:__anon3	file:
+NGX_UNESCAPE_URI_COMPONENT	./ngx_http_lua_util.h	16;"	d
+POS_BYTECODE	./ngx_http_lua_clfactory.c	158;"	d	file:
+POS_IS_VAR_ARG	./ngx_http_lua_clfactory.c	155;"	d	file:
+POS_LAST_LINE	./ngx_http_lua_clfactory.c	152;"	d	file:
+POS_MAX_STACK_SIZE	./ngx_http_lua_clfactory.c	156;"	d	file:
+POS_NUM_OF_INST	./ngx_http_lua_clfactory.c	157;"	d	file:
+POS_NUM_OF_PARA	./ngx_http_lua_clfactory.c	154;"	d	file:
+POS_NUM_OF_UPVS	./ngx_http_lua_clfactory.c	153;"	d	file:
+POS_SOURCE_STR_LEN	./ngx_http_lua_clfactory.c	150;"	d	file:
+POS_START_LINE	./ngx_http_lua_clfactory.c	151;"	d	file:
+SHA_DIGEST_LENGTH	./ngx_http_lua_string.c	31;"	d	file:
+SOCKET_CTX_INDEX	./ngx_http_lua_socket_tcp.c	/^    SOCKET_CTX_INDEX = 1,$/;"	e	enum:__anon30	file:
+SOCKET_CTX_INDEX	./ngx_http_lua_socket_udp.c	/^    SOCKET_CTX_INDEX = 1,$/;"	e	enum:__anon35	file:
+SOCKET_KEY_INDEX	./ngx_http_lua_socket_tcp.c	/^    SOCKET_KEY_INDEX = 3$/;"	e	enum:__anon30	file:
+SOCKET_OP_CONNECT	./ngx_http_lua_socket_tcp.c	/^    SOCKET_OP_CONNECT,$/;"	e	enum:__anon31	file:
+SOCKET_OP_READ	./ngx_http_lua_socket_tcp.c	/^    SOCKET_OP_READ,$/;"	e	enum:__anon31	file:
+SOCKET_OP_WRITE	./ngx_http_lua_socket_tcp.c	/^    SOCKET_OP_WRITE$/;"	e	enum:__anon31	file:
+SOCKET_TIMEOUT_INDEX	./ngx_http_lua_socket_tcp.c	/^    SOCKET_TIMEOUT_INDEX = 2,$/;"	e	enum:__anon30	file:
+SOCKET_TIMEOUT_INDEX	./ngx_http_lua_socket_udp.c	/^    SOCKET_TIMEOUT_INDEX = 2$/;"	e	enum:__anon35	file:
+UDP_MAX_DATAGRAM_SIZE	./ngx_http_lua_socket_udp.c	27;"	d	file:
+_DDEBUG_H_INCLUDED_	./ddebug.h	8;"	d
+_NGX_HTTP_LUA_ACCESSBY_H_INCLUDED_	./ngx_http_lua_accessby.h	9;"	d
+_NGX_HTTP_LUA_API_H_INCLUDED_	./api/ngx_http_lua_api.h	8;"	d
+_NGX_HTTP_LUA_ARGS_H_INCLUDED_	./ngx_http_lua_args.h	8;"	d
+_NGX_HTTP_LUA_BODYFILTERBY_H_INCLUDED_	./ngx_http_lua_bodyfilterby.h	8;"	d
+_NGX_HTTP_LUA_CACHE_H_INCLUDED_	./ngx_http_lua_cache.h	9;"	d
+_NGX_HTTP_LUA_CAPTUREFILTER_H_INCLUDED_	./ngx_http_lua_capturefilter.h	9;"	d
+_NGX_HTTP_LUA_CLFACTORY_H_INCLUDED_	./ngx_http_lua_clfactory.h	9;"	d
+_NGX_HTTP_LUA_COMMON_H_INCLUDED_	./ngx_http_lua_common.h	9;"	d
+_NGX_HTTP_LUA_CONFIG_H_INCLUDED_	./ngx_http_lua_config.h	8;"	d
+_NGX_HTTP_LUA_CONSTS_H_INCLUDED_	./ngx_http_lua_consts.h	8;"	d
+_NGX_HTTP_LUA_CONTENT_BY_H_INCLUDED_	./ngx_http_lua_contentby.h	9;"	d
+_NGX_HTTP_LUA_CONTROL_H_INCLUDED_	./ngx_http_lua_control.h	9;"	d
+_NGX_HTTP_LUA_COROUTINE_H_INCLUDED_	./ngx_http_lua_coroutine.h	9;"	d
+_NGX_HTTP_LUA_CTX_H_INCLUDED_	./ngx_http_lua_ctx.h	9;"	d
+_NGX_HTTP_LUA_DIRECTIVE_H_INCLUDED_	./ngx_http_lua_directive.h	9;"	d
+_NGX_HTTP_LUA_EXCEPTION_H_INCLUDED_	./ngx_http_lua_exception.h	9;"	d
+_NGX_HTTP_LUA_HEADERFILTERBY_H_INCLUDED_	./ngx_http_lua_headerfilterby.h	8;"	d
+_NGX_HTTP_LUA_HEADERS_H_INCLUDED_	./ngx_http_lua_headers.h	9;"	d
+_NGX_HTTP_LUA_HEADERS_IN_H_INCLUDED_	./ngx_http_lua_headers_in.h	9;"	d
+_NGX_HTTP_LUA_HEADERS_OUT_H_INCLUDED_	./ngx_http_lua_headers_out.h	9;"	d
+_NGX_HTTP_LUA_INITBY_H_INCLUDED_	./ngx_http_lua_initby.h	8;"	d
+_NGX_HTTP_LUA_INITWORKERBY_H_INCLUDED_	./ngx_http_lua_initworkerby.h	8;"	d
+_NGX_HTTP_LUA_LOGBY_H_INCLUDED_	./ngx_http_lua_logby.h	8;"	d
+_NGX_HTTP_LUA_LOG_H_INCLUDED_	./ngx_http_lua_log.h	9;"	d
+_NGX_HTTP_LUA_METHOD_H_INCLUDED_	./ngx_http_lua_req_method.h	8;"	d
+_NGX_HTTP_LUA_MISC_H_INCLUDED_	./ngx_http_lua_misc.h	9;"	d
+_NGX_HTTP_LUA_NDK_H_INCLUDED_	./ngx_http_lua_ndk.h	8;"	d
+_NGX_HTTP_LUA_OUTPUT_H_INCLUDED_	./ngx_http_lua_output.h	9;"	d
+_NGX_HTTP_LUA_PCREFIX_H_INCLUDED_	./ngx_http_lua_pcrefix.h	9;"	d
+_NGX_HTTP_LUA_PHASE_H_INCLUDED_	./ngx_http_lua_phase.h	2;"	d
+_NGX_HTTP_LUA_PROBE_H_INCLUDED_	./ngx_http_lua_probe.h	8;"	d
+_NGX_HTTP_LUA_REGEX_H_INCLUDED_	./ngx_http_lua_regex.h	8;"	d
+_NGX_HTTP_LUA_REQ_BODY_H_INCLUDED_	./ngx_http_lua_req_body.h	9;"	d
+_NGX_HTTP_LUA_REWRITEBY_H_INCLUDED_	./ngx_http_lua_rewriteby.h	9;"	d
+_NGX_HTTP_LUA_SCRIPT_H_INCLUDED_	./ngx_http_lua_script.h	8;"	d
+_NGX_HTTP_LUA_SET_BY_H_INCLUDED_	./ngx_http_lua_setby.h	2;"	d
+_NGX_HTTP_LUA_SHDICT_H_INCLUDED_	./ngx_http_lua_shdict.h	8;"	d
+_NGX_HTTP_LUA_SLEEP_H_INCLUDED_	./ngx_http_lua_sleep.h	9;"	d
+_NGX_HTTP_LUA_SOCKET_TCP_H_INCLUDED_	./ngx_http_lua_socket_tcp.h	8;"	d
+_NGX_HTTP_LUA_SOCKET_UDP_H_INCLUDED_	./ngx_http_lua_socket_udp.h	8;"	d
+_NGX_HTTP_LUA_STRING_H_INCLUDED_	./ngx_http_lua_string.h	9;"	d
+_NGX_HTTP_LUA_SUBREQUEST_H_INCLUDED_	./ngx_http_lua_subrequest.h	9;"	d
+_NGX_HTTP_LUA_TIMER_H_INCLUDED_	./ngx_http_lua_timer.h	9;"	d
+_NGX_HTTP_LUA_TIME_H_INCLUDED_	./ngx_http_lua_time.h	9;"	d
+_NGX_HTTP_LUA_URI_H_INCLUDED_	./ngx_http_lua_uri.h	9;"	d
+_NGX_HTTP_LUA_UTHREAD_H_INCLUDED_	./ngx_http_lua_uthread.h	8;"	d
+_NGX_HTTP_LUA_UTIL_H_INCLUDED_	./ngx_http_lua_util.h	9;"	d
+_NGX_HTTP_LUA_VARIABLE_H_INCLUDED_	./ngx_http_lua_variable.h	9;"	d
+_NGX_HTTP_LUA_WORKER_H_INCLUDED_	./ngx_http_lua_worker.h	8;"	d
+access_chunkname	./ngx_http_lua_common.h	/^    u_char                  *access_chunkname;$/;"	m	struct:__anon11
+access_handler	./ngx_http_lua_common.h	/^    ngx_http_handler_pt     access_handler;$/;"	m	struct:__anon11
+access_src	./ngx_http_lua_common.h	/^    ngx_http_complex_value_t access_src;     \/*  access_by_lua$/;"	m	struct:__anon11
+access_src_key	./ngx_http_lua_common.h	/^    u_char                  *access_src_key; \/* cached key for access_src *\/$/;"	m	struct:__anon11
+acquired_raw_req_socket	./ngx_http_lua_common.h	/^    unsigned         acquired_raw_req_socket:1;  \/* whether a raw req socket$/;"	m	struct:ngx_http_lua_ctx_s
+active_connections	./ngx_http_lua_socket_tcp.h	/^    ngx_uint_t                         active_connections;$/;"	m	struct:__anon32
+b	./api/ngx_http_lua_api.h	/^        int         b; \/* boolean *\/$/;"	m	union:__anon1::__anon2
+begin_code	./ngx_http_lua_clfactory.c	/^    }           begin_code;$/;"	m	struct:__anon5	typeref:union:__anon5::__anon6	file:
+begin_code_len	./ngx_http_lua_clfactory.c	/^    size_t      begin_code_len;$/;"	m	struct:__anon5	file:
+body	./ngx_http_lua_common.h	/^    ngx_chain_t             *body; \/* buffered subrequest response body$/;"	m	struct:ngx_http_lua_ctx_s
+body_downstream	./ngx_http_lua_socket_tcp.h	/^    unsigned                         body_downstream:1;$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+body_filter_handler	./ngx_http_lua_common.h	/^    ngx_http_output_body_filter_pt         body_filter_handler;$/;"	m	struct:__anon11
+body_filter_src	./ngx_http_lua_common.h	/^    ngx_http_complex_value_t         body_filter_src;$/;"	m	struct:__anon11
+body_filter_src_key	./ngx_http_lua_common.h	/^    u_char                          *body_filter_src_key;$/;"	m	struct:__anon11
+buf	./ngx_http_lua_script.h	/^    ngx_str_t                   buf;$/;"	m	struct:__anon24
+buf_in	./ngx_http_lua_socket_tcp.h	/^    ngx_chain_t                     *buf_in; \/* last input data buffer *\/$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+buff	./ngx_http_lua_clfactory.c	/^    char        buff[NGX_LUA_READER_BUFSIZE];$/;"	m	struct:__anon5	file:
+buffer	./ngx_http_lua_socket_tcp.h	/^    ngx_buf_t                        buffer; \/* receive buffer *\/$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+buffer_size	./ngx_http_lua_common.h	/^    size_t                           buffer_size;$/;"	m	struct:__anon11
+buffering	./ngx_http_lua_common.h	/^    unsigned         buffering:1; \/* HTTP 1.0 response body buffering flag *\/$/;"	m	struct:ngx_http_lua_ctx_s
+bufs_in	./ngx_http_lua_socket_tcp.h	/^    ngx_chain_t                     *bufs_in; \/* input data buffers *\/$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+busy_bufs	./ngx_http_lua_common.h	/^    ngx_chain_t             *busy_bufs;$/;"	m	struct:ngx_http_lua_ctx_s
+cache	./ngx_http_lua_socket_tcp.h	/^    ngx_queue_t                        cache;$/;"	m	struct:__anon32
+capture	./ngx_http_lua_common.h	/^    unsigned         capture:1;  \/*  1: response body of current request$/;"	m	struct:ngx_http_lua_ctx_s
+captures	./ngx_http_lua_regex.c	/^    int                          *captures;$/;"	m	struct:__anon18	file:
+captures	./ngx_http_lua_regex.c	/^    int                     *captures;$/;"	m	struct:__anon20	file:
+captures	./ngx_http_lua_regex.c	/^    int           captures;$/;"	m	struct:__anon19	file:
+captures	./ngx_http_lua_script.h	/^    int                        *captures;$/;"	m	struct:__anon24
+captures_data	./ngx_http_lua_script.h	/^    u_char                     *captures_data;$/;"	m	struct:__anon24
+captures_len	./ngx_http_lua_regex.c	/^    int                      captures_len;$/;"	m	struct:__anon20	file:
+check_client_abort	./ngx_http_lua_common.h	/^    ngx_flag_t                       check_client_abort;$/;"	m	struct:__anon11
+chr	./ngx_http_lua_socket_tcp.h	/^    u_char                           chr;$/;"	m	struct:ngx_http_lua_dfa_edge_s
+cleanup	./ngx_http_lua_common.h	/^    ngx_http_cleanup_pt      cleanup;$/;"	m	struct:ngx_http_lua_co_ctx_s
+cleanup	./ngx_http_lua_common.h	/^    ngx_http_cleanup_pt     *cleanup;$/;"	m	struct:ngx_http_lua_ctx_s
+cleanup	./ngx_http_lua_regex.c	/^    ngx_http_cleanup_pt     *cleanup;$/;"	m	struct:__anon20	file:
+cleanup	./ngx_http_lua_socket_tcp.h	/^    ngx_http_cleanup_pt             *cleanup;$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+cleanup	./ngx_http_lua_socket_udp.h	/^    ngx_http_cleanup_pt             *cleanup;$/;"	m	struct:ngx_http_lua_socket_udp_upstream_s
+client_addr_text	./ngx_http_lua_timer.c	/^    ngx_str_t                          client_addr_text;$/;"	m	struct:__anon36	file:
+co	./ngx_http_lua_common.h	/^    lua_State               *co;$/;"	m	struct:ngx_http_lua_co_ctx_s
+co	./ngx_http_lua_timer.c	/^    lua_State    *co;$/;"	m	struct:__anon36	file:
+co_ctx	./ngx_http_lua_common.h	/^    ngx_http_lua_co_ctx_t               *co_ctx;$/;"	m	struct:ngx_http_lua_posted_thread_s
+co_ctx	./ngx_http_lua_socket_udp.h	/^    ngx_http_lua_co_ctx_t           *co_ctx;$/;"	m	struct:ngx_http_lua_socket_udp_upstream_s
+co_op	./ngx_http_lua_common.h	/^    unsigned         co_op:2; \/*  coroutine API operation *\/$/;"	m	struct:ngx_http_lua_ctx_s
+co_ref	./ngx_http_lua_common.h	/^    int                      co_ref; \/*  reference to anchor the thread$/;"	m	struct:ngx_http_lua_co_ctx_s
+co_ref	./ngx_http_lua_timer.c	/^    int           co_ref;$/;"	m	struct:__anon36	file:
+co_status	./ngx_http_lua_common.h	/^    unsigned                 co_status:3;  \/* the current coroutine's status *\/$/;"	m	struct:ngx_http_lua_co_ctx_s
+co_top	./ngx_http_lua_common.h	/^    int                      co_top; \/* stack top after yielding\/creation,$/;"	m	struct:ngx_http_lua_co_ctx_s
+code	./ngx_http_lua_script.h	/^    ngx_http_lua_script_code_pt     code;$/;"	m	struct:__anon25
+code	./ngx_http_lua_script.h	/^    ngx_http_lua_script_code_pt     code;$/;"	m	struct:__anon26
+color	./ngx_http_lua_shdict.h	/^    u_char                       color;$/;"	m	struct:__anon27
+complete_lengths	./ngx_http_lua_script.h	/^    unsigned                    complete_lengths:1;$/;"	m	struct:__anon21
+complete_values	./ngx_http_lua_script.h	/^    unsigned                    complete_values:1;$/;"	m	struct:__anon21
+complex_value	./ngx_http_lua_script.h	/^    ngx_http_lua_complex_value_t    *complex_value;$/;"	m	struct:__anon23
+conf	./ngx_http_lua_socket_tcp.h	/^    ngx_http_lua_loc_conf_t         *conf;$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+conf	./ngx_http_lua_socket_udp.h	/^    ngx_http_lua_loc_conf_t         *conf;$/;"	m	struct:ngx_http_lua_socket_udp_upstream_s
+conn_waiting	./ngx_http_lua_socket_tcp.h	/^    unsigned                         conn_waiting:1;$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+connect_timeout	./ngx_http_lua_common.h	/^    ngx_msec_t                       connect_timeout;$/;"	m	struct:__anon11
+connect_timeout	./ngx_http_lua_socket_tcp.h	/^    ngx_msec_t                       connect_timeout;$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+connection	./ngx_http_lua_socket_tcp.h	/^    ngx_connection_t                *connection;$/;"	m	struct:__anon34
+content_chunkname	./ngx_http_lua_common.h	/^    u_char                  *content_chunkname;$/;"	m	struct:__anon11
+content_handler	./ngx_http_lua_common.h	/^    ngx_http_handler_pt     content_handler;$/;"	m	struct:__anon11
+content_src	./ngx_http_lua_common.h	/^    ngx_http_complex_value_t content_src;    \/*  content_by_lua$/;"	m	struct:__anon11
+content_src_key	./ngx_http_lua_common.h	/^    u_char                 *content_src_key; \/* cached key for content_src *\/$/;"	m	struct:__anon11
+context	./ngx_http_lua_common.h	/^    uint16_t                 context;   \/* the current running directive context$/;"	m	struct:ngx_http_lua_ctx_s
+count	./ngx_http_lua_common.h	/^    ngx_int_t        count;$/;"	m	struct:__anon15
+ctx	./ngx_http_lua_subrequest.h	/^    ngx_http_lua_ctx_t          *ctx;$/;"	m	struct:ngx_http_lua_post_subrequest_data_s
+ctx_ref	./ngx_http_lua_common.h	/^    int                      ctx_ref;  \/*  reference to anchor$/;"	m	struct:ngx_http_lua_ctx_s
+cur_co_ctx	./ngx_http_lua_common.h	/^    ngx_http_lua_co_ctx_t   *cur_co_ctx; \/* co ctx for the current coroutine *\/$/;"	m	struct:ngx_http_lua_ctx_s
+cycle	./ngx_http_lua_common.h	/^    ngx_cycle_t         *cycle;$/;"	m	struct:ngx_http_lua_main_conf_s
+data	./ngx_http_lua_common.h	/^    void                    *data;      \/* user state for cosockets *\/$/;"	m	struct:ngx_http_lua_co_ctx_s
+data	./ngx_http_lua_shdict.h	/^    u_char                       data[1];$/;"	m	struct:__anon27
+data	./ngx_http_lua_util.h	/^    u_char      *data;$/;"	m	struct:__anon37
+dd	./ddebug.h	/^static void dd(const char *fmt, ...) {$/;"	f
+dd	./ddebug.h	20;"	d
+dd	./ddebug.h	40;"	d
+dd_check_read_event_handler	./ddebug.h	55;"	d
+dd_check_read_event_handler	./ddebug.h	75;"	d
+dd_check_write_event_handler	./ddebug.h	64;"	d
+dd_check_write_event_handler	./ddebug.h	76;"	d
+downstream	./ngx_http_lua_common.h	/^    void                    *downstream;  \/* can be either$/;"	m	struct:ngx_http_lua_ctx_s
+dummy	./ngx_http_lua_shdict.h	/^    u_char                       dummy;$/;"	m	struct:__anon27
+enable_code_cache	./ngx_http_lua_common.h	/^    ngx_flag_t              enable_code_cache; \/* whether to enable$/;"	m	struct:__anon11
+end_code	./ngx_http_lua_clfactory.c	/^    }           end_code;$/;"	m	struct:__anon5	typeref:union:__anon5::__anon7	file:
+end_code_len	./ngx_http_lua_clfactory.c	/^    size_t      end_code_len;$/;"	m	struct:__anon5	file:
+entered_access_phase	./ngx_http_lua_common.h	/^    unsigned         entered_access_phase:1;$/;"	m	struct:ngx_http_lua_ctx_s
+entered_content_phase	./ngx_http_lua_common.h	/^    unsigned         entered_content_phase:1;$/;"	m	struct:ngx_http_lua_ctx_s
+entered_rewrite_phase	./ngx_http_lua_common.h	/^    unsigned         entered_rewrite_phase:1;$/;"	m	struct:ngx_http_lua_ctx_s
+entry_co_ctx	./ngx_http_lua_common.h	/^    ngx_http_lua_co_ctx_t    entry_co_ctx; \/* coroutine context for the$/;"	m	struct:ngx_http_lua_ctx_s
+eof	./ngx_http_lua_common.h	/^    unsigned         eof:1;             \/*  1: last_buf has been sent;$/;"	m	struct:ngx_http_lua_ctx_s
+eof	./ngx_http_lua_socket_tcp.h	/^    unsigned                         eof:1;$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+err	./ngx_http_lua_regex.c	/^    ngx_str_t     err;$/;"	m	struct:__anon19	file:
+exec_args	./ngx_http_lua_common.h	/^    ngx_str_t                exec_args;$/;"	m	struct:ngx_http_lua_ctx_s
+exec_uri	./ngx_http_lua_common.h	/^    ngx_str_t                exec_uri;$/;"	m	struct:ngx_http_lua_ctx_s
+exit_code	./ngx_http_lua_common.h	/^    ngx_int_t                exit_code;$/;"	m	struct:ngx_http_lua_ctx_s
+exited	./ngx_http_lua_common.h	/^    unsigned         exited:1;$/;"	m	struct:ngx_http_lua_ctx_s
+expires	./ngx_http_lua_shdict.h	/^    uint64_t                     expires;$/;"	m	struct:__anon27
+extraline	./ngx_http_lua_clfactory.c	/^    int         extraline;$/;"	m	struct:__anon5	file:
+f	./ngx_http_lua_clfactory.c	/^    FILE       *f;$/;"	m	struct:__anon5	file:
+file_type	./ngx_http_lua_clfactory.c	/^    ngx_http_lua_clfactory_file_type_e file_type;$/;"	m	struct:__anon5	file:
+flags	./ngx_http_lua_regex.c	/^    uint8_t                  flags;$/;"	m	struct:__anon20	file:
+flushing	./ngx_http_lua_common.h	/^    unsigned                 flushing:1; \/* indicates whether the current$/;"	m	struct:ngx_http_lua_co_ctx_s
+flushing_coros	./ngx_http_lua_common.h	/^    unsigned                 flushing_coros; \/* number of coroutines waiting on$/;"	m	struct:ngx_http_lua_ctx_s
+force_read_body	./ngx_http_lua_common.h	/^    ngx_flag_t              force_read_body; \/* whether force request body to$/;"	m	struct:__anon11
+free	./ngx_http_lua_socket_tcp.h	/^    ngx_queue_t                        free;$/;"	m	struct:__anon32
+free_bufs	./ngx_http_lua_common.h	/^    ngx_chain_t             *free_bufs;$/;"	m	struct:ngx_http_lua_ctx_s
+free_recv_bufs	./ngx_http_lua_common.h	/^    ngx_chain_t             *free_recv_bufs;$/;"	m	struct:ngx_http_lua_ctx_s
+ft_type	./ngx_http_lua_socket_tcp.h	/^    unsigned                         ft_type:16;$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+ft_type	./ngx_http_lua_socket_udp.h	/^    ngx_uint_t                       ft_type;$/;"	m	struct:ngx_http_lua_socket_udp_upstream_s
+handler	./ngx_http_lua_common.h	/^    ngx_http_lua_set_header_pt              handler;$/;"	m	struct:__anon16
+handler	./ngx_http_lua_common.h	/^    ngx_http_lua_set_header_pt              handler;$/;"	m	struct:ngx_http_lua_header_val_s
+hash	./ngx_http_lua_common.h	/^    ngx_uint_t                              hash;$/;"	m	struct:ngx_http_lua_header_val_s
+header_filter_handler	./ngx_http_lua_common.h	/^    ngx_http_handler_pt     header_filter_handler;$/;"	m	struct:__anon11
+header_filter_src	./ngx_http_lua_common.h	/^    ngx_http_complex_value_t header_filter_src;  \/*  header_filter_by_lua$/;"	m	struct:__anon11
+header_filter_src_key	./ngx_http_lua_common.h	/^    u_char                 *header_filter_src_key;$/;"	m	struct:__anon11
+header_sent	./ngx_http_lua_common.h	/^    unsigned         header_sent:1; \/* r->header_sent is not sufficient for$/;"	m	struct:ngx_http_lua_ctx_s
+headers_set	./ngx_http_lua_common.h	/^    unsigned         headers_set:1; \/* whether the user has set custom$/;"	m	struct:ngx_http_lua_ctx_s
+http10_buffering	./ngx_http_lua_common.h	/^    ngx_flag_t              http10_buffering;$/;"	m	struct:__anon11
+inclusive	./ngx_http_lua_socket_tcp.h	/^    unsigned                             inclusive:1;$/;"	m	struct:__anon33
+index	./ngx_http_lua_common.h	/^    ngx_uint_t               index;              \/* index of the current$/;"	m	struct:ngx_http_lua_ctx_s
+init_handler	./ngx_http_lua_common.h	/^    ngx_http_lua_conf_handler_pt    init_handler;$/;"	m	struct:ngx_http_lua_main_conf_s
+init_src	./ngx_http_lua_common.h	/^    ngx_str_t                       init_src;$/;"	m	struct:ngx_http_lua_main_conf_s
+init_worker_handler	./ngx_http_lua_common.h	/^    ngx_http_lua_conf_handler_pt    init_worker_handler;$/;"	m	struct:ngx_http_lua_main_conf_s
+init_worker_src	./ngx_http_lua_common.h	/^    ngx_str_t                       init_worker_src;$/;"	m	struct:ngx_http_lua_main_conf_s
+input_filter	./ngx_http_lua_socket_tcp.h	/^    ngx_int_t                      (*input_filter)(void *data, ssize_t bytes);$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+input_filter_ctx	./ngx_http_lua_socket_tcp.h	/^    void                            *input_filter_ctx;$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+ip	./ngx_http_lua_script.h	/^    u_char                     *ip;$/;"	m	struct:__anon24
+is_uthread	./ngx_http_lua_common.h	/^    unsigned                 is_uthread:1; \/* whether the current coroutine is$/;"	m	struct:ngx_http_lua_co_ctx_s
+keepalive_timeout	./ngx_http_lua_common.h	/^    ngx_msec_t                       keepalive_timeout;$/;"	m	struct:__anon11
+key	./ngx_http_lua_common.h	/^    ngx_str_t                               key;$/;"	m	struct:ngx_http_lua_header_val_s
+key	./ngx_http_lua_common.h	/^    u_char      *key;$/;"	m	struct:__anon9
+key	./ngx_http_lua_socket_tcp.h	/^    u_char                             key[1];$/;"	m	struct:__anon32
+key	./ngx_http_lua_util.h	/^    ngx_http_lua_ffi_str_t   key;$/;"	m	struct:__anon38
+key_len	./ngx_http_lua_shdict.h	/^    u_short                      key_len;$/;"	m	struct:__anon27
+last_body	./ngx_http_lua_common.h	/^    ngx_chain_t            **last_body; \/* for the "body" field *\/$/;"	m	struct:ngx_http_lua_ctx_s
+len	./ngx_http_lua_script.h	/^    uintptr_t                       len;$/;"	m	struct:__anon25
+len	./ngx_http_lua_util.h	/^    int          len;$/;"	m	struct:__anon37
+length	./ngx_http_lua_socket_tcp.h	/^    size_t                           length;$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+lengths	./ngx_http_lua_script.h	/^    ngx_array_t               **lengths;$/;"	m	struct:__anon21
+lengths	./ngx_http_lua_script.h	/^    void                       *lengths;$/;"	m	struct:__anon22
+listening	./ngx_http_lua_timer.c	/^    ngx_listening_t                   *listening;$/;"	m	struct:__anon36	file:
+lmcf	./ngx_http_lua_timer.c	/^    ngx_http_lua_main_conf_t          *lmcf;$/;"	m	struct:__anon36	file:
+loader	./ngx_http_lua_common.h	/^    lua_CFunction        loader;$/;"	m	struct:__anon10
+loc_conf	./ngx_http_lua_timer.c	/^    void        **loc_conf;$/;"	m	struct:__anon36	file:
+log	./ngx_http_lua_script.h	/^    ngx_log_t                       *log;$/;"	m	struct:__anon23
+log	./ngx_http_lua_script.h	/^    ngx_log_t                  *log;$/;"	m	struct:__anon21
+log	./ngx_http_lua_script.h	/^    ngx_log_t                  *log;$/;"	m	struct:__anon24
+log	./ngx_http_lua_shdict.h	/^    ngx_log_t                    *log;$/;"	m	struct:__anon29
+log_chunkname	./ngx_http_lua_common.h	/^    u_char                      *log_chunkname;$/;"	m	struct:__anon11
+log_handler	./ngx_http_lua_common.h	/^    ngx_http_handler_pt     log_handler;$/;"	m	struct:__anon11
+log_socket_errors	./ngx_http_lua_common.h	/^    ngx_flag_t                       log_socket_errors;$/;"	m	struct:__anon11
+log_src	./ngx_http_lua_common.h	/^    ngx_http_complex_value_t     log_src;     \/* log_by_lua inline script\/script$/;"	m	struct:__anon11
+log_src_key	./ngx_http_lua_common.h	/^    u_char                      *log_src_key; \/* cached key for log_src *\/$/;"	m	struct:__anon11
+log_wrapper	./ngx_http_lua_log.c	/^log_wrapper(ngx_log_t *log, const char *ident, ngx_uint_t level,$/;"	f	file:
+lua	./ngx_http_lua_common.h	/^    lua_State           *lua;$/;"	m	struct:ngx_http_lua_main_conf_s
+lua_cpath	./ngx_http_lua_common.h	/^    ngx_str_t            lua_cpath;$/;"	m	struct:ngx_http_lua_main_conf_s
+lua_path	./ngx_http_lua_common.h	/^    ngx_str_t            lua_path;$/;"	m	struct:ngx_http_lua_main_conf_s
+lua_vm	./ngx_http_lua_socket_tcp.h	/^    lua_State                         *lua_vm;$/;"	m	struct:__anon32
+main_conf	./ngx_http_lua_shdict.h	/^    ngx_http_lua_main_conf_t     *main_conf;$/;"	m	struct:__anon29
+main_conf	./ngx_http_lua_timer.c	/^    void        **main_conf;$/;"	m	struct:__anon36	file:
+max_pending_timers	./ngx_http_lua_common.h	/^    ngx_int_t            max_pending_timers;$/;"	m	struct:ngx_http_lua_main_conf_s
+max_running_timers	./ngx_http_lua_common.h	/^    ngx_int_t            max_running_timers;$/;"	m	struct:ngx_http_lua_main_conf_s
+n	./api/ngx_http_lua_api.h	/^        lua_Number  n; \/* number *\/$/;"	m	union:__anon1::__anon2
+n	./ngx_http_lua_script.h	/^    uintptr_t                       n;$/;"	m	struct:__anon26
+name	./ngx_http_lua_common.h	/^    ngx_str_t                               name;$/;"	m	struct:__anon16
+name	./ngx_http_lua_shdict.h	/^    ngx_str_t                     name;$/;"	m	struct:__anon29
+name_count	./ngx_http_lua_regex.c	/^    int                           name_count;$/;"	m	struct:__anon18	file:
+name_entry_size	./ngx_http_lua_regex.c	/^    int                           name_entry_size;$/;"	m	struct:__anon18	file:
+name_table	./ngx_http_lua_regex.c	/^    u_char                       *name_table;$/;"	m	struct:__anon18	file:
+ncaptures	./ngx_http_lua_regex.c	/^    int                           ncaptures;$/;"	m	struct:__anon18	file:
+ncaptures	./ngx_http_lua_regex.c	/^    int                      ncaptures;$/;"	m	struct:__anon20	file:
+ncaptures	./ngx_http_lua_script.h	/^    ngx_uint_t                  ncaptures;$/;"	m	struct:__anon24
+new_state	./ngx_http_lua_socket_tcp.h	/^    int                              new_state;$/;"	m	struct:ngx_http_lua_dfa_edge_s
+next	./ngx_http_lua_common.h	/^    ngx_http_lua_posted_thread_t        *next;$/;"	m	struct:ngx_http_lua_posted_thread_s
+next	./ngx_http_lua_socket_tcp.h	/^    ngx_http_lua_dfa_edge_t         *next;$/;"	m	struct:ngx_http_lua_dfa_edge_s
+ngx_http_clear_builtin_header	./ngx_http_lua_headers_in.c	/^ngx_http_clear_builtin_header(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_clear_builtin_header	./ngx_http_lua_headers_out.c	/^ngx_http_clear_builtin_header(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_clear_content_length_header	./ngx_http_lua_headers_in.c	/^ngx_http_clear_content_length_header(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_clear_content_length_header	./ngx_http_lua_headers_out.c	/^ngx_http_clear_content_length_header(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_clear_last_modified_header	./ngx_http_lua_headers_out.c	/^ngx_http_clear_last_modified_header(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lookup_ndk_set_var_directive	./ngx_http_lua_ndk.c	/^ngx_http_lookup_ndk_set_var_directive(u_char *name,$/;"	f	file:
+ngx_http_lua_abort_pending_timers	./ngx_http_lua_timer.c	/^ngx_http_lua_abort_pending_timers(ngx_event_t *ev)$/;"	f	file:
+ngx_http_lua_access_by_chunk	./ngx_http_lua_accessby.c	/^ngx_http_lua_access_by_chunk(lua_State *L, ngx_http_request_t *r)$/;"	f	file:
+ngx_http_lua_access_by_lua	./ngx_http_lua_directive.c	/^ngx_http_lua_access_by_lua(ngx_conf_t *cf, ngx_command_t *cmd, void *conf)$/;"	f
+ngx_http_lua_access_handler	./ngx_http_lua_accessby.c	/^ngx_http_lua_access_handler(ngx_http_request_t *r)$/;"	f
+ngx_http_lua_access_handler_file	./ngx_http_lua_accessby.c	/^ngx_http_lua_access_handler_file(ngx_http_request_t *r)$/;"	f
+ngx_http_lua_access_handler_inline	./ngx_http_lua_accessby.c	/^ngx_http_lua_access_handler_inline(ngx_http_request_t *r)$/;"	f
+ngx_http_lua_add_copy_chain	./ngx_http_lua_util.c	/^ngx_http_lua_add_copy_chain(ngx_http_request_t *r, ngx_http_lua_ctx_t *ctx,$/;"	f
+ngx_http_lua_add_package_preload	./ngx_http_lua_api.c	/^ngx_http_lua_add_package_preload(ngx_conf_t *cf, const char *package,$/;"	f
+ngx_http_lua_adjust_subrequest	./ngx_http_lua_subrequest.c	/^ngx_http_lua_adjust_subrequest(ngx_http_request_t *sr, ngx_uint_t method,$/;"	f	file:
+ngx_http_lua_args_key	./ngx_http_lua_setby.c	37;"	d	file:
+ngx_http_lua_assert	./ngx_http_lua_common.h	41;"	d
+ngx_http_lua_assert	./ngx_http_lua_common.h	43;"	d
+ngx_http_lua_atpanic	./ngx_http_lua_exception.c	/^ngx_http_lua_atpanic(lua_State *L)$/;"	f
+ngx_http_lua_base64_encoded_length	./ngx_http_lua_string.c	/^ngx_http_lua_base64_encoded_length(size_t n, int no_padding)$/;"	f	file:
+ngx_http_lua_body_filter	./ngx_http_lua_bodyfilterby.c	/^ngx_http_lua_body_filter(ngx_http_request_t *r, ngx_chain_t *in)$/;"	f	file:
+ngx_http_lua_body_filter_by_chunk	./ngx_http_lua_bodyfilterby.c	/^ngx_http_lua_body_filter_by_chunk(lua_State *L, ngx_http_request_t *r,$/;"	f
+ngx_http_lua_body_filter_by_lua	./ngx_http_lua_directive.c	/^ngx_http_lua_body_filter_by_lua(ngx_conf_t *cf, ngx_command_t *cmd,$/;"	f
+ngx_http_lua_body_filter_by_lua_env	./ngx_http_lua_bodyfilterby.c	/^ngx_http_lua_body_filter_by_lua_env(lua_State *L, ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_body_filter_file	./ngx_http_lua_bodyfilterby.c	/^ngx_http_lua_body_filter_file(ngx_http_request_t *r, ngx_chain_t *in)$/;"	f
+ngx_http_lua_body_filter_init	./ngx_http_lua_bodyfilterby.c	/^ngx_http_lua_body_filter_init(void)$/;"	f
+ngx_http_lua_body_filter_inline	./ngx_http_lua_bodyfilterby.c	/^ngx_http_lua_body_filter_inline(ngx_http_request_t *r, ngx_chain_t *in)$/;"	f
+ngx_http_lua_body_filter_param_get	./ngx_http_lua_bodyfilterby.c	/^ngx_http_lua_body_filter_param_get(lua_State *L)$/;"	f
+ngx_http_lua_body_filter_param_set	./ngx_http_lua_bodyfilterby.c	/^ngx_http_lua_body_filter_param_set(lua_State *L, ngx_http_request_t *r,$/;"	f
+ngx_http_lua_cache_load_code	./ngx_http_lua_cache.c	/^ngx_http_lua_cache_load_code(ngx_http_request_t *r, lua_State *L,$/;"	f	file:
+ngx_http_lua_cache_loadbuffer	./ngx_http_lua_cache.c	/^ngx_http_lua_cache_loadbuffer(ngx_http_request_t *r, lua_State *L,$/;"	f
+ngx_http_lua_cache_loadfile	./ngx_http_lua_cache.c	/^ngx_http_lua_cache_loadfile(ngx_http_request_t *r, lua_State *L,$/;"	f
+ngx_http_lua_cache_store_code	./ngx_http_lua_cache.c	/^ngx_http_lua_cache_store_code(lua_State *L, const char *key)$/;"	f	file:
+ngx_http_lua_calc_strlen_in_table	./ngx_http_lua_output.c	/^ngx_http_lua_calc_strlen_in_table(lua_State *L, int index, int arg_i,$/;"	f
+ngx_http_lua_cancel_subreq	./ngx_http_lua_subrequest.c	/^ngx_http_lua_cancel_subreq(ngx_http_request_t *r)$/;"	f	file:
+ngx_http_lua_capture_body_filter	./ngx_http_lua_capturefilter.c	/^ngx_http_lua_capture_body_filter(ngx_http_request_t *r, ngx_chain_t *in)$/;"	f	file:
+ngx_http_lua_capture_filter_init	./ngx_http_lua_capturefilter.c	/^ngx_http_lua_capture_filter_init(ngx_conf_t *cf)$/;"	f
+ngx_http_lua_capture_header_filter	./ngx_http_lua_capturefilter.c	/^ngx_http_lua_capture_header_filter(ngx_http_request_t *r)$/;"	f	file:
+ngx_http_lua_chain_get_free_buf	./ngx_http_lua_util.c	/^ngx_http_lua_chain_get_free_buf(ngx_log_t *log, ngx_pool_t *p,$/;"	f
+ngx_http_lua_chain_key	./ngx_http_lua_bodyfilterby.c	36;"	d	file:
+ngx_http_lua_check_broken_connection	./ngx_http_lua_util.c	/^ngx_http_lua_check_broken_connection(ngx_http_request_t *r, ngx_event_t *ev)$/;"	f
+ngx_http_lua_check_context	./ngx_http_lua_util.h	90;"	d
+ngx_http_lua_check_fake_request	./ngx_http_lua_util.h	116;"	d
+ngx_http_lua_check_fake_request2	./ngx_http_lua_util.h	122;"	d
+ngx_http_lua_check_if_abortable	./ngx_http_lua_util.h	234;"	d
+ngx_http_lua_cleanup_conn_pools	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_cleanup_conn_pools(lua_State *L)$/;"	f
+ngx_http_lua_cleanup_pending_operation	./ngx_http_lua_util.h	/^ngx_http_lua_cleanup_pending_operation(ngx_http_lua_co_ctx_t *coctx)$/;"	f
+ngx_http_lua_cleanup_vm	./ngx_http_lua_util.c	/^ngx_http_lua_cleanup_vm(void *data)$/;"	f
+ngx_http_lua_cleanup_zombie_child_uthreads	./ngx_http_lua_util.c	/^ngx_http_lua_cleanup_zombie_child_uthreads(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_clfactory_buffer_ctx_t	./ngx_http_lua_clfactory.c	/^} ngx_http_lua_clfactory_buffer_ctx_t;$/;"	t	typeref:struct:__anon8	file:
+ngx_http_lua_clfactory_bytecode_prepare	./ngx_http_lua_clfactory.c	/^ngx_http_lua_clfactory_bytecode_prepare(lua_State *L,$/;"	f
+ngx_http_lua_clfactory_errfile	./ngx_http_lua_clfactory.c	/^ngx_http_lua_clfactory_errfile(lua_State *L, const char *what, int fname_index)$/;"	f	file:
+ngx_http_lua_clfactory_file_ctx_t	./ngx_http_lua_clfactory.c	/^} ngx_http_lua_clfactory_file_ctx_t;$/;"	t	typeref:struct:__anon5	file:
+ngx_http_lua_clfactory_file_size	./ngx_http_lua_clfactory.c	/^ngx_http_lua_clfactory_file_size(FILE *f)$/;"	f	file:
+ngx_http_lua_clfactory_file_type_e	./ngx_http_lua_clfactory.c	/^} ngx_http_lua_clfactory_file_type_e;$/;"	t	typeref:enum:__anon3	file:
+ngx_http_lua_clfactory_getF	./ngx_http_lua_clfactory.c	/^ngx_http_lua_clfactory_getF(lua_State *L, void *ud, size_t *size)$/;"	f	file:
+ngx_http_lua_clfactory_getS	./ngx_http_lua_clfactory.c	/^ngx_http_lua_clfactory_getS(lua_State *L, void *ud, size_t *size)$/;"	f	file:
+ngx_http_lua_clfactory_loadbuffer	./ngx_http_lua_clfactory.c	/^ngx_http_lua_clfactory_loadbuffer(lua_State *L, const char *buff,$/;"	f
+ngx_http_lua_clfactory_loadfile	./ngx_http_lua_clfactory.c	/^ngx_http_lua_clfactory_loadfile(lua_State *L, const char *filename)$/;"	f
+ngx_http_lua_close_fake_connection	./ngx_http_lua_util.c	/^ngx_http_lua_close_fake_connection(ngx_connection_t *c)$/;"	f
+ngx_http_lua_close_fake_request	./ngx_http_lua_util.c	/^ngx_http_lua_close_fake_request(ngx_http_request_t *r)$/;"	f	file:
+ngx_http_lua_cmds	./ngx_http_lua_module.c	/^static ngx_command_t ngx_http_lua_cmds[] = {$/;"	v	file:
+ngx_http_lua_co_ctx_s	./ngx_http_lua_common.h	/^struct ngx_http_lua_co_ctx_s {$/;"	s
+ngx_http_lua_co_ctx_t	./ngx_http_lua_common.h	/^typedef struct ngx_http_lua_co_ctx_s  ngx_http_lua_co_ctx_t;$/;"	t	typeref:struct:ngx_http_lua_co_ctx_s
+ngx_http_lua_co_status_names	./ngx_http_lua_coroutine.c	/^    ngx_http_lua_co_status_names[] =$/;"	v	file:
+ngx_http_lua_co_status_t	./ngx_http_lua_common.h	/^} ngx_http_lua_co_status_t;$/;"	t	typeref:enum:__anon13
+ngx_http_lua_coctx_cleanup	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_coctx_cleanup(void *data)$/;"	f	file:
+ngx_http_lua_code_cache	./ngx_http_lua_directive.c	/^ngx_http_lua_code_cache(ngx_conf_t *cf, ngx_command_t *cmd, void *conf)$/;"	f
+ngx_http_lua_code_cache_key	./ngx_http_lua_util.c	/^char ngx_http_lua_code_cache_key;$/;"	v
+ngx_http_lua_compile_complex_value	./ngx_http_lua_script.c	/^ngx_http_lua_compile_complex_value(ngx_http_lua_compile_complex_value_t *ccv)$/;"	f
+ngx_http_lua_compile_complex_value_t	./ngx_http_lua_script.h	/^} ngx_http_lua_compile_complex_value_t;$/;"	t	typeref:struct:__anon23
+ngx_http_lua_complex_value	./ngx_http_lua_script.c	/^ngx_http_lua_complex_value(ngx_http_request_t *r, ngx_str_t *subj,$/;"	f
+ngx_http_lua_complex_value_t	./ngx_http_lua_script.h	/^} ngx_http_lua_complex_value_t;$/;"	t	typeref:struct:__anon22
+ngx_http_lua_conf_handler_pt	./ngx_http_lua_common.h	/^typedef ngx_int_t (*ngx_http_lua_conf_handler_pt)(ngx_log_t *log,$/;"	t
+ngx_http_lua_config_configure	./ngx_http_lua_config.c	/^ngx_http_lua_config_configure(lua_State *L)$/;"	f	file:
+ngx_http_lua_config_prefix	./ngx_http_lua_config.c	/^ngx_http_lua_config_prefix(lua_State *L)$/;"	f	file:
+ngx_http_lua_content_by_chunk	./ngx_http_lua_contentby.c	/^ngx_http_lua_content_by_chunk(lua_State *L, ngx_http_request_t *r)$/;"	f
+ngx_http_lua_content_by_lua	./ngx_http_lua_directive.c	/^ngx_http_lua_content_by_lua(ngx_conf_t *cf, ngx_command_t *cmd, void *conf)$/;"	f
+ngx_http_lua_content_handler	./ngx_http_lua_contentby.c	/^ngx_http_lua_content_handler(ngx_http_request_t *r)$/;"	f
+ngx_http_lua_content_handler_file	./ngx_http_lua_contentby.c	/^ngx_http_lua_content_handler_file(ngx_http_request_t *r)$/;"	f
+ngx_http_lua_content_handler_inline	./ngx_http_lua_contentby.c	/^ngx_http_lua_content_handler_inline(ngx_http_request_t *r)$/;"	f
+ngx_http_lua_content_length_hash	./ngx_http_lua_util.c	/^ngx_uint_t  ngx_http_lua_content_length_hash = 0;$/;"	v
+ngx_http_lua_content_length_header_key	./ngx_http_lua_subrequest.c	/^static ngx_str_t  ngx_http_lua_content_length_header_key =$/;"	v	file:
+ngx_http_lua_content_phase_post_read	./ngx_http_lua_contentby.c	/^ngx_http_lua_content_phase_post_read(ngx_http_request_t *r)$/;"	f	file:
+ngx_http_lua_content_run_posted_threads	./ngx_http_lua_contentby.c	/^ngx_http_lua_content_run_posted_threads(lua_State *L, ngx_http_request_t *r,$/;"	f
+ngx_http_lua_content_wev_handler	./ngx_http_lua_contentby.c	/^ngx_http_lua_content_wev_handler(ngx_http_request_t *r)$/;"	f
+ngx_http_lua_context_name	./ngx_http_lua_util.h	78;"	d
+ngx_http_lua_copy_in_file_request_body	./ngx_http_lua_subrequest.c	/^ngx_http_lua_copy_in_file_request_body(ngx_http_request_t *r)$/;"	f	file:
+ngx_http_lua_copy_method	./ngx_http_lua_subrequest.c	/^ngx_str_t  ngx_http_lua_copy_method = ngx_http_lua_method_name("COPY");$/;"	v
+ngx_http_lua_copy_request_headers	./ngx_http_lua_subrequest.c	/^ngx_http_lua_copy_request_headers(ngx_http_request_t *sr, ngx_http_request_t *r)$/;"	f	file:
+ngx_http_lua_copy_str_in_table	./ngx_http_lua_output.c	/^ngx_http_lua_copy_str_in_table(lua_State *L, int index, u_char *dst)$/;"	f
+ngx_http_lua_coroutine_alive	./ngx_http_lua_uthread.h	26;"	d
+ngx_http_lua_coroutine_create	./ngx_http_lua_coroutine.c	/^ngx_http_lua_coroutine_create(lua_State *L)$/;"	f	file:
+ngx_http_lua_coroutine_create_helper	./ngx_http_lua_coroutine.c	/^ngx_http_lua_coroutine_create_helper(lua_State *L, ngx_http_request_t *r,$/;"	f
+ngx_http_lua_coroutine_resume	./ngx_http_lua_coroutine.c	/^ngx_http_lua_coroutine_resume(lua_State *L)$/;"	f	file:
+ngx_http_lua_coroutine_status	./ngx_http_lua_coroutine.c	/^ngx_http_lua_coroutine_status(lua_State *L)$/;"	f	file:
+ngx_http_lua_coroutine_yield	./ngx_http_lua_coroutine.c	/^ngx_http_lua_coroutine_yield(lua_State *L)$/;"	f	file:
+ngx_http_lua_coroutines_key	./ngx_http_lua_util.c	/^char ngx_http_lua_coroutines_key;$/;"	v
+ngx_http_lua_create_co_ctx	./ngx_http_lua_util.c	/^ngx_http_lua_create_co_ctx(ngx_http_request_t *r, ngx_http_lua_ctx_t *ctx)$/;"	f
+ngx_http_lua_create_ctx	./ngx_http_lua_util.h	/^ngx_http_lua_create_ctx(ngx_http_request_t *r)$/;"	f
+ngx_http_lua_create_fake_connection	./ngx_http_lua_util.c	/^ngx_http_lua_create_fake_connection(ngx_pool_t *pool)$/;"	f
+ngx_http_lua_create_fake_request	./ngx_http_lua_util.c	/^ngx_http_lua_create_fake_request(ngx_connection_t *c)$/;"	f
+ngx_http_lua_create_headers_metatable	./ngx_http_lua_headers.c	/^ngx_http_lua_create_headers_metatable(ngx_log_t *log, lua_State *L)$/;"	f
+ngx_http_lua_create_loc_conf	./ngx_http_lua_module.c	/^ngx_http_lua_create_loc_conf(ngx_conf_t *cf)$/;"	f	file:
+ngx_http_lua_create_main_conf	./ngx_http_lua_module.c	/^ngx_http_lua_create_main_conf(ngx_conf_t *cf)$/;"	f	file:
+ngx_http_lua_create_new_globals_table	./ngx_http_lua_util.c	/^ngx_http_lua_create_new_globals_table(lua_State *L, int narr, int nrec)$/;"	f
+ngx_http_lua_ctx_s	./ngx_http_lua_common.h	/^typedef struct ngx_http_lua_ctx_s {$/;"	s
+ngx_http_lua_ctx_t	./ngx_http_lua_common.h	/^} ngx_http_lua_ctx_t;$/;"	t	typeref:struct:ngx_http_lua_ctx_s
+ngx_http_lua_ctx_tables_key	./ngx_http_lua_util.h	41;"	d
+ngx_http_lua_del_thread	./ngx_http_lua_util.c	/^ngx_http_lua_del_thread(ngx_http_request_t *r, lua_State *L,$/;"	f
+ngx_http_lua_delete_method	./ngx_http_lua_subrequest.c	/^ngx_str_t  ngx_http_lua_delete_method =$/;"	v
+ngx_http_lua_dfa_edge_s	./ngx_http_lua_socket_tcp.h	/^struct ngx_http_lua_dfa_edge_s {$/;"	s
+ngx_http_lua_dfa_edge_t	./ngx_http_lua_socket_tcp.h	/^typedef struct ngx_http_lua_dfa_edge_s ngx_http_lua_dfa_edge_t;$/;"	t	typeref:struct:ngx_http_lua_dfa_edge_s
+ngx_http_lua_digest_hex	./ngx_http_lua_util.c	/^ngx_http_lua_digest_hex(u_char *dest, const u_char *buf, int buf_len)$/;"	f
+ngx_http_lua_discard_bufs	./ngx_http_lua_util.c	/^ngx_http_lua_discard_bufs(ngx_pool_t *pool, ngx_chain_t *in)$/;"	f
+ngx_http_lua_do_call	./ngx_http_lua_util.c	/^ngx_http_lua_do_call(ngx_log_t *log, lua_State *L)$/;"	f
+ngx_http_lua_downstream_udata_metatable_key	./ngx_http_lua_socket_tcp.c	/^static char ngx_http_lua_downstream_udata_metatable_key;$/;"	v	file:
+ngx_http_lua_encode_base64	./ngx_http_lua_string.c	/^ngx_http_lua_encode_base64(ngx_str_t *dst, ngx_str_t *src, int no_padding)$/;"	f	file:
+ngx_http_lua_entry_thread_alive	./ngx_http_lua_uthread.h	22;"	d
+ngx_http_lua_escape_uri	./ngx_http_lua_util.c	/^ngx_http_lua_escape_uri(u_char *dst, u_char *src, size_t size, ngx_uint_t type)$/;"	f
+ngx_http_lua_exception	./ngx_http_lua_exception.c	/^jmp_buf ngx_http_lua_exception;$/;"	v
+ngx_http_lua_ffi_check_context	./ngx_http_lua_util.h	/^ngx_http_lua_ffi_check_context(ngx_http_lua_ctx_t *ctx, unsigned flags,$/;"	f
+ngx_http_lua_ffi_compile_regex	./ngx_http_lua_regex.c	/^ngx_http_lua_ffi_compile_regex(const unsigned char *pat, size_t pat_len,$/;"	f
+ngx_http_lua_ffi_compile_replace_template	./ngx_http_lua_regex.c	/^ngx_http_lua_ffi_compile_replace_template(ngx_http_lua_regex_t *re,$/;"	f
+ngx_http_lua_ffi_create_script_engine	./ngx_http_lua_regex.c	/^ngx_http_lua_ffi_create_script_engine(void)$/;"	f
+ngx_http_lua_ffi_decode_base64	./ngx_http_lua_string.c	/^ngx_http_lua_ffi_decode_base64(const u_char *src, size_t slen, u_char *dst,$/;"	f
+ngx_http_lua_ffi_destroy_regex	./ngx_http_lua_regex.c	/^ngx_http_lua_ffi_destroy_regex(ngx_http_lua_regex_t *re)$/;"	f
+ngx_http_lua_ffi_destroy_script_engine	./ngx_http_lua_regex.c	/^ngx_http_lua_ffi_destroy_script_engine(ngx_http_lua_script_engine_t *e)$/;"	f
+ngx_http_lua_ffi_encode_base64	./ngx_http_lua_string.c	/^ngx_http_lua_ffi_encode_base64(const u_char *src, size_t slen, u_char *dst,$/;"	f
+ngx_http_lua_ffi_escape_uri	./ngx_http_lua_string.c	/^ngx_http_lua_ffi_escape_uri(const u_char *src, size_t len, u_char *dst)$/;"	f
+ngx_http_lua_ffi_exec_regex	./ngx_http_lua_regex.c	/^ngx_http_lua_ffi_exec_regex(ngx_http_lua_regex_t *re, int flags,$/;"	f
+ngx_http_lua_ffi_exit	./ngx_http_lua_control.c	/^ngx_http_lua_ffi_exit(ngx_http_request_t *r, int status, u_char *err,$/;"	f
+ngx_http_lua_ffi_get_ctx_ref	./ngx_http_lua_ctx.c	/^ngx_http_lua_ffi_get_ctx_ref(ngx_http_request_t *r)$/;"	f
+ngx_http_lua_ffi_get_resp_header	./ngx_http_lua_headers.c	/^ngx_http_lua_ffi_get_resp_header(ngx_http_request_t *r,$/;"	f
+ngx_http_lua_ffi_get_resp_status	./ngx_http_lua_misc.c	/^ngx_http_lua_ffi_get_resp_status(ngx_http_request_t *r)$/;"	f
+ngx_http_lua_ffi_headers_sent	./ngx_http_lua_misc.c	/^ngx_http_lua_ffi_headers_sent(ngx_http_request_t *r)$/;"	f
+ngx_http_lua_ffi_init_script_engine	./ngx_http_lua_regex.c	/^ngx_http_lua_ffi_init_script_engine(ngx_http_lua_script_engine_t *e,$/;"	f
+ngx_http_lua_ffi_is_subrequest	./ngx_http_lua_misc.c	/^ngx_http_lua_ffi_is_subrequest(ngx_http_request_t *r)$/;"	f
+ngx_http_lua_ffi_max_regex_cache_size	./ngx_http_lua_regex.c	/^ngx_http_lua_ffi_max_regex_cache_size(void)$/;"	f
+ngx_http_lua_ffi_md5	./ngx_http_lua_string.c	/^ngx_http_lua_ffi_md5(const u_char *src, size_t len, u_char *dst)$/;"	f
+ngx_http_lua_ffi_md5_bin	./ngx_http_lua_string.c	/^ngx_http_lua_ffi_md5_bin(const u_char *src, size_t len, u_char *dst)$/;"	f
+ngx_http_lua_ffi_now	./ngx_http_lua_time.c	/^ngx_http_lua_ffi_now(void)$/;"	f
+ngx_http_lua_ffi_req_get_headers	./ngx_http_lua_headers.c	/^ngx_http_lua_ffi_req_get_headers(ngx_http_request_t *r,$/;"	f
+ngx_http_lua_ffi_req_get_headers_count	./ngx_http_lua_headers.c	/^ngx_http_lua_ffi_req_get_headers_count(ngx_http_request_t *r, int max)$/;"	f
+ngx_http_lua_ffi_req_get_method	./ngx_http_lua_req_method.c	/^ngx_http_lua_ffi_req_get_method(ngx_http_request_t *r)$/;"	f
+ngx_http_lua_ffi_req_get_method_name	./ngx_http_lua_req_method.c	/^ngx_http_lua_ffi_req_get_method_name(ngx_http_request_t *r, char *buf,$/;"	f
+ngx_http_lua_ffi_req_get_querystring_len	./ngx_http_lua_args.c	/^ngx_http_lua_ffi_req_get_querystring_len(ngx_http_request_t *r)$/;"	f
+ngx_http_lua_ffi_req_get_uri_args	./ngx_http_lua_args.c	/^ngx_http_lua_ffi_req_get_uri_args(ngx_http_request_t *r, u_char *buf,$/;"	f
+ngx_http_lua_ffi_req_get_uri_args_count	./ngx_http_lua_args.c	/^ngx_http_lua_ffi_req_get_uri_args_count(ngx_http_request_t *r, int max)$/;"	f
+ngx_http_lua_ffi_req_header_set_single_value	./ngx_http_lua_headers.c	/^ngx_http_lua_ffi_req_header_set_single_value(ngx_http_request_t *r,$/;"	f
+ngx_http_lua_ffi_req_set_method	./ngx_http_lua_req_method.c	/^ngx_http_lua_ffi_req_set_method(ngx_http_request_t *r, int method)$/;"	f
+ngx_http_lua_ffi_req_start_time	./ngx_http_lua_time.c	/^ngx_http_lua_ffi_req_start_time(ngx_http_request_t *r)$/;"	f
+ngx_http_lua_ffi_script_eval_data	./ngx_http_lua_regex.c	/^ngx_http_lua_ffi_script_eval_data(ngx_http_lua_script_engine_t *e,$/;"	f
+ngx_http_lua_ffi_script_eval_len	./ngx_http_lua_regex.c	/^ngx_http_lua_ffi_script_eval_len(ngx_http_lua_script_engine_t *e,$/;"	f
+ngx_http_lua_ffi_set_ctx_ref	./ngx_http_lua_ctx.c	/^ngx_http_lua_ffi_set_ctx_ref(ngx_http_request_t *r, int ref)$/;"	f
+ngx_http_lua_ffi_set_resp_header	./ngx_http_lua_headers.c	/^ngx_http_lua_ffi_set_resp_header(ngx_http_request_t *r, const u_char *key_data,$/;"	f
+ngx_http_lua_ffi_set_resp_status	./ngx_http_lua_misc.c	/^ngx_http_lua_ffi_set_resp_status(ngx_http_request_t *r, int status)$/;"	f
+ngx_http_lua_ffi_sha1_bin	./ngx_http_lua_string.c	/^ngx_http_lua_ffi_sha1_bin(const u_char *src, size_t len, u_char *dst)$/;"	f
+ngx_http_lua_ffi_shdict_flush_all	./ngx_http_lua_shdict.c	/^ngx_http_lua_ffi_shdict_flush_all(ngx_shm_zone_t *zone)$/;"	f
+ngx_http_lua_ffi_shdict_get	./ngx_http_lua_shdict.c	/^ngx_http_lua_ffi_shdict_get(ngx_shm_zone_t *zone, u_char *key,$/;"	f
+ngx_http_lua_ffi_shdict_incr	./ngx_http_lua_shdict.c	/^ngx_http_lua_ffi_shdict_incr(ngx_shm_zone_t *zone, u_char *key,$/;"	f
+ngx_http_lua_ffi_shdict_store	./ngx_http_lua_shdict.c	/^ngx_http_lua_ffi_shdict_store(ngx_shm_zone_t *zone, int op, u_char *key,$/;"	f
+ngx_http_lua_ffi_str_t	./ngx_http_lua_util.h	/^} ngx_http_lua_ffi_str_t;$/;"	t	typeref:struct:__anon37
+ngx_http_lua_ffi_table_elt_t	./ngx_http_lua_util.h	/^} ngx_http_lua_ffi_table_elt_t;$/;"	t	typeref:struct:__anon38
+ngx_http_lua_ffi_time	./ngx_http_lua_time.c	/^ngx_http_lua_ffi_time(void)$/;"	f
+ngx_http_lua_ffi_unescape_uri	./ngx_http_lua_string.c	/^ngx_http_lua_ffi_unescape_uri(const u_char *src, size_t len, u_char *dst)$/;"	f
+ngx_http_lua_ffi_uri_escaped_length	./ngx_http_lua_string.c	/^ngx_http_lua_ffi_uri_escaped_length(const u_char *src, size_t len)$/;"	f
+ngx_http_lua_ffi_var_get	./ngx_http_lua_variable.c	/^ngx_http_lua_ffi_var_get(ngx_http_request_t *r, u_char *name_data,$/;"	f
+ngx_http_lua_ffi_var_set	./ngx_http_lua_variable.c	/^ngx_http_lua_ffi_var_set(ngx_http_request_t *r, u_char *name_data,$/;"	f
+ngx_http_lua_ffi_worker_exiting	./ngx_http_lua_worker.c	/^ngx_http_lua_ffi_worker_exiting(void)$/;"	f
+ngx_http_lua_ffi_worker_pid	./ngx_http_lua_worker.c	/^ngx_http_lua_ffi_worker_pid(void)$/;"	f
+ngx_http_lua_filter_set_by_lua_file	./ngx_http_lua_directive.c	/^ngx_http_lua_filter_set_by_lua_file(ngx_http_request_t *r, ngx_str_t *val,$/;"	f
+ngx_http_lua_filter_set_by_lua_inline	./ngx_http_lua_directive.c	/^ngx_http_lua_filter_set_by_lua_inline(ngx_http_request_t *r, ngx_str_t *val,$/;"	f
+ngx_http_lua_finalize_fake_request	./ngx_http_lua_util.c	/^ngx_http_lua_finalize_fake_request(ngx_http_request_t *r, ngx_int_t rc)$/;"	f
+ngx_http_lua_finalize_request	./ngx_http_lua_util.c	/^ngx_http_lua_finalize_request(ngx_http_request_t *r, ngx_int_t rc)$/;"	f
+ngx_http_lua_finalize_threads	./ngx_http_lua_util.c	/^ngx_http_lua_finalize_threads(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_find_zone	./ngx_http_lua_shdict.c	/^ngx_http_lua_find_zone(u_char *name_data, size_t name_len)$/;"	f
+ngx_http_lua_flush_cleanup	./ngx_http_lua_output.c	/^ngx_http_lua_flush_cleanup(void *data)$/;"	f	file:
+ngx_http_lua_flush_pending_output	./ngx_http_lua_util.c	/^ngx_http_lua_flush_pending_output(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_flush_resume_helper	./ngx_http_lua_output.c	/^ngx_http_lua_flush_resume_helper(ngx_http_request_t *r, ngx_http_lua_ctx_t *ctx)$/;"	f
+ngx_http_lua_free_fake_request	./ngx_http_lua_util.c	/^ngx_http_lua_free_fake_request(ngx_http_request_t *r)$/;"	f	file:
+ngx_http_lua_gen_chunk_name	./ngx_http_lua_directive.c	/^ngx_http_lua_gen_chunk_name(ngx_conf_t *cf, const char *tag, size_t tag_len)$/;"	f	file:
+ngx_http_lua_generic_phase_post_read	./ngx_http_lua_util.c	/^ngx_http_lua_generic_phase_post_read(ngx_http_request_t *r)$/;"	f
+ngx_http_lua_get_co_ctx	./ngx_http_lua_util.c	/^ngx_http_lua_get_co_ctx(lua_State *L, ngx_http_lua_ctx_t *ctx)$/;"	f
+ngx_http_lua_get_flush_chain	./ngx_http_lua_util.h	/^ngx_http_lua_get_flush_chain(ngx_http_request_t *r, ngx_http_lua_ctx_t *ctx)$/;"	f
+ngx_http_lua_get_global_state	./ngx_http_lua_api.c	/^ngx_http_lua_get_global_state(ngx_conf_t *cf)$/;"	f
+ngx_http_lua_get_globals_table	./ngx_http_lua_util.h	/^ngx_http_lua_get_globals_table(lua_State *L)$/;"	f
+ngx_http_lua_get_keepalive_peer	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_get_keepalive_peer(ngx_http_request_t *r, lua_State *L,$/;"	f	file:
+ngx_http_lua_get_lua_vm	./ngx_http_lua_util.h	/^ngx_http_lua_get_lua_vm(ngx_http_request_t *r, ngx_http_lua_ctx_t *ctx)$/;"	f
+ngx_http_lua_get_method	./ngx_http_lua_subrequest.c	/^ngx_str_t  ngx_http_lua_get_method = ngx_http_lua_method_name("GET");$/;"	v
+ngx_http_lua_get_output_header	./ngx_http_lua_headers_out.c	/^ngx_http_lua_get_output_header(lua_State *L, ngx_http_request_t *r,$/;"	f
+ngx_http_lua_get_raw_phase_context	./ngx_http_lua_util.c	/^ngx_http_lua_get_raw_phase_context(lua_State *L)$/;"	f	file:
+ngx_http_lua_get_req	./ngx_http_lua_util.h	/^ngx_http_lua_get_req(lua_State *L)$/;"	f
+ngx_http_lua_get_request	./ngx_http_lua_api.c	/^ngx_http_lua_get_request(lua_State *L)$/;"	f
+ngx_http_lua_handle_exec	./ngx_http_lua_util.c	/^ngx_http_lua_handle_exec(lua_State *L, ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_handle_exit	./ngx_http_lua_util.c	/^ngx_http_lua_handle_exit(lua_State *L, ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_handle_rewrite_jump	./ngx_http_lua_util.c	/^ngx_http_lua_handle_rewrite_jump(lua_State *L, ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_handle_subreq_responses	./ngx_http_lua_subrequest.c	/^ngx_http_lua_handle_subreq_responses(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_hash_literal	./ngx_http_lua_util.h	356;"	d
+ngx_http_lua_hash_str	./ngx_http_lua_util.h	/^ngx_http_lua_hash_str(u_char *src, size_t n)$/;"	f
+ngx_http_lua_head_method	./ngx_http_lua_subrequest.c	/^ngx_str_t  ngx_http_lua_head_method = ngx_http_lua_method_name("HEAD");$/;"	v
+ngx_http_lua_header_filter	./ngx_http_lua_headerfilterby.c	/^ngx_http_lua_header_filter(ngx_http_request_t *r)$/;"	f	file:
+ngx_http_lua_header_filter_by_chunk	./ngx_http_lua_headerfilterby.c	/^ngx_http_lua_header_filter_by_chunk(lua_State *L, ngx_http_request_t *r)$/;"	f
+ngx_http_lua_header_filter_by_lua	./ngx_http_lua_directive.c	/^ngx_http_lua_header_filter_by_lua(ngx_conf_t *cf, ngx_command_t *cmd,$/;"	f
+ngx_http_lua_header_filter_by_lua_env	./ngx_http_lua_headerfilterby.c	/^ngx_http_lua_header_filter_by_lua_env(lua_State *L, ngx_http_request_t *r)$/;"	f	file:
+ngx_http_lua_header_filter_file	./ngx_http_lua_headerfilterby.c	/^ngx_http_lua_header_filter_file(ngx_http_request_t *r)$/;"	f
+ngx_http_lua_header_filter_init	./ngx_http_lua_headerfilterby.c	/^ngx_http_lua_header_filter_init(void)$/;"	f
+ngx_http_lua_header_filter_inline	./ngx_http_lua_headerfilterby.c	/^ngx_http_lua_header_filter_inline(ngx_http_request_t *r)$/;"	f
+ngx_http_lua_header_val_s	./ngx_http_lua_common.h	/^struct ngx_http_lua_header_val_s {$/;"	s
+ngx_http_lua_header_val_t	./ngx_http_lua_common.h	/^typedef struct ngx_http_lua_header_val_s ngx_http_lua_header_val_t;$/;"	t	typeref:struct:ngx_http_lua_header_val_s
+ngx_http_lua_headers_metatable_key	./ngx_http_lua_util.c	/^char ngx_http_lua_headers_metatable_key;$/;"	v
+ngx_http_lua_init	./ngx_http_lua_module.c	/^ngx_http_lua_init(ngx_conf_t *cf)$/;"	f	file:
+ngx_http_lua_init_by_file	./ngx_http_lua_initby.c	/^ngx_http_lua_init_by_file(ngx_log_t *log, ngx_http_lua_main_conf_t *lmcf,$/;"	f
+ngx_http_lua_init_by_inline	./ngx_http_lua_initby.c	/^ngx_http_lua_init_by_inline(ngx_log_t *log, ngx_http_lua_main_conf_t *lmcf,$/;"	f
+ngx_http_lua_init_by_lua	./ngx_http_lua_directive.c	/^ngx_http_lua_init_by_lua(ngx_conf_t *cf, ngx_command_t *cmd,$/;"	f
+ngx_http_lua_init_ctx	./ngx_http_lua_util.h	/^ngx_http_lua_init_ctx(ngx_http_request_t *r, ngx_http_lua_ctx_t *ctx)$/;"	f
+ngx_http_lua_init_globals	./ngx_http_lua_util.c	/^ngx_http_lua_init_globals(lua_State *L, ngx_cycle_t *cycle,$/;"	f	file:
+ngx_http_lua_init_main_conf	./ngx_http_lua_module.c	/^ngx_http_lua_init_main_conf(ngx_conf_t *cf, void *conf)$/;"	f	file:
+ngx_http_lua_init_registry	./ngx_http_lua_util.c	/^ngx_http_lua_init_registry(lua_State *L, ngx_log_t *log)$/;"	f	file:
+ngx_http_lua_init_vm	./ngx_http_lua_util.c	/^ngx_http_lua_init_vm(lua_State *parent_vm, ngx_cycle_t *cycle,$/;"	f
+ngx_http_lua_init_worker	./ngx_http_lua_initworkerby.c	/^ngx_http_lua_init_worker(ngx_cycle_t *cycle)$/;"	f
+ngx_http_lua_init_worker_by_file	./ngx_http_lua_initworkerby.c	/^ngx_http_lua_init_worker_by_file(ngx_log_t *log, ngx_http_lua_main_conf_t *lmcf,$/;"	f
+ngx_http_lua_init_worker_by_inline	./ngx_http_lua_initworkerby.c	/^ngx_http_lua_init_worker_by_inline(ngx_log_t *log,$/;"	f
+ngx_http_lua_init_worker_by_lua	./ngx_http_lua_directive.c	/^ngx_http_lua_init_worker_by_lua(ngx_conf_t *cf, ngx_command_t *cmd,$/;"	f
+ngx_http_lua_inject_arg_api	./ngx_http_lua_util.c	/^ngx_http_lua_inject_arg_api(lua_State *L)$/;"	f	file:
+ngx_http_lua_inject_config_api	./ngx_http_lua_config.c	/^ngx_http_lua_inject_config_api(lua_State *L)$/;"	f
+ngx_http_lua_inject_control_api	./ngx_http_lua_control.c	/^ngx_http_lua_inject_control_api(ngx_log_t *log, lua_State *L)$/;"	f
+ngx_http_lua_inject_core_consts	./ngx_http_lua_consts.c	/^ngx_http_lua_inject_core_consts(lua_State *L)$/;"	f
+ngx_http_lua_inject_coroutine_api	./ngx_http_lua_coroutine.c	/^ngx_http_lua_inject_coroutine_api(ngx_log_t *log, lua_State *L)$/;"	f
+ngx_http_lua_inject_http_consts	./ngx_http_lua_consts.c	/^ngx_http_lua_inject_http_consts(lua_State *L)$/;"	f
+ngx_http_lua_inject_log_api	./ngx_http_lua_log.c	/^ngx_http_lua_inject_log_api(lua_State *L)$/;"	f
+ngx_http_lua_inject_log_consts	./ngx_http_lua_log.c	/^ngx_http_lua_inject_log_consts(lua_State *L)$/;"	f	file:
+ngx_http_lua_inject_misc_api	./ngx_http_lua_misc.c	/^ngx_http_lua_inject_misc_api(lua_State *L)$/;"	f
+ngx_http_lua_inject_ndk_api	./ngx_http_lua_ndk.c	/^ngx_http_lua_inject_ndk_api(lua_State *L)$/;"	f
+ngx_http_lua_inject_ngx_api	./ngx_http_lua_util.c	/^ngx_http_lua_inject_ngx_api(lua_State *L, ngx_http_lua_main_conf_t *lmcf,$/;"	f	file:
+ngx_http_lua_inject_output_api	./ngx_http_lua_output.c	/^ngx_http_lua_inject_output_api(lua_State *L)$/;"	f
+ngx_http_lua_inject_phase_api	./ngx_http_lua_phase.c	/^ngx_http_lua_inject_phase_api(lua_State *L)$/;"	f
+ngx_http_lua_inject_regex_api	./ngx_http_lua_regex.c	/^ngx_http_lua_inject_regex_api(lua_State *L)$/;"	f
+ngx_http_lua_inject_req_api	./ngx_http_lua_util.c	/^ngx_http_lua_inject_req_api(ngx_log_t *log, lua_State *L)$/;"	f
+ngx_http_lua_inject_req_args_api	./ngx_http_lua_args.c	/^ngx_http_lua_inject_req_args_api(lua_State *L)$/;"	f
+ngx_http_lua_inject_req_body_api	./ngx_http_lua_req_body.c	/^ngx_http_lua_inject_req_body_api(lua_State *L)$/;"	f
+ngx_http_lua_inject_req_header_api	./ngx_http_lua_headers.c	/^ngx_http_lua_inject_req_header_api(lua_State *L)$/;"	f
+ngx_http_lua_inject_req_method_api	./ngx_http_lua_req_method.c	/^ngx_http_lua_inject_req_method_api(lua_State *L)$/;"	f
+ngx_http_lua_inject_req_socket_api	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_inject_req_socket_api(lua_State *L)$/;"	f
+ngx_http_lua_inject_req_time_api	./ngx_http_lua_time.c	/^ngx_http_lua_inject_req_time_api(lua_State *L)$/;"	f
+ngx_http_lua_inject_req_uri_api	./ngx_http_lua_uri.c	/^ngx_http_lua_inject_req_uri_api(ngx_log_t *log, lua_State *L)$/;"	f
+ngx_http_lua_inject_resp_header_api	./ngx_http_lua_headers.c	/^ngx_http_lua_inject_resp_header_api(lua_State *L)$/;"	f
+ngx_http_lua_inject_shdict_api	./ngx_http_lua_shdict.c	/^ngx_http_lua_inject_shdict_api(ngx_http_lua_main_conf_t *lmcf, lua_State *L)$/;"	f
+ngx_http_lua_inject_sleep_api	./ngx_http_lua_sleep.c	/^ngx_http_lua_inject_sleep_api(lua_State *L)$/;"	f
+ngx_http_lua_inject_socket_tcp_api	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_inject_socket_tcp_api(ngx_log_t *log, lua_State *L)$/;"	f
+ngx_http_lua_inject_socket_udp_api	./ngx_http_lua_socket_udp.c	/^ngx_http_lua_inject_socket_udp_api(ngx_log_t *log, lua_State *L)$/;"	f
+ngx_http_lua_inject_string_api	./ngx_http_lua_string.c	/^ngx_http_lua_inject_string_api(lua_State *L)$/;"	f
+ngx_http_lua_inject_subrequest_api	./ngx_http_lua_subrequest.c	/^ngx_http_lua_inject_subrequest_api(lua_State *L)$/;"	f
+ngx_http_lua_inject_time_api	./ngx_http_lua_time.c	/^ngx_http_lua_inject_time_api(lua_State *L)$/;"	f
+ngx_http_lua_inject_timer_api	./ngx_http_lua_timer.c	/^ngx_http_lua_inject_timer_api(lua_State *L)$/;"	f
+ngx_http_lua_inject_uthread_api	./ngx_http_lua_uthread.c	/^ngx_http_lua_inject_uthread_api(ngx_log_t *log, lua_State *L)$/;"	f
+ngx_http_lua_inject_variable_api	./ngx_http_lua_variable.c	/^ngx_http_lua_inject_variable_api(lua_State *L)$/;"	f
+ngx_http_lua_inject_worker_api	./ngx_http_lua_worker.c	/^ngx_http_lua_inject_worker_api(lua_State *L)$/;"	f
+ngx_http_lua_is_entry_thread	./ngx_http_lua_uthread.h	18;"	d
+ngx_http_lua_is_thread	./ngx_http_lua_uthread.h	14;"	d
+ngx_http_lua_loc_conf_t	./ngx_http_lua_common.h	/^} ngx_http_lua_loc_conf_t;$/;"	t	typeref:struct:__anon11
+ngx_http_lua_location_hash	./ngx_http_lua_util.c	/^ngx_uint_t  ngx_http_lua_location_hash = 0;$/;"	v
+ngx_http_lua_lock_method	./ngx_http_lua_subrequest.c	/^ngx_str_t  ngx_http_lua_lock_method = ngx_http_lua_method_name("LOCK");$/;"	v
+ngx_http_lua_log_by_chunk	./ngx_http_lua_logby.c	/^ngx_http_lua_log_by_chunk(lua_State *L, ngx_http_request_t *r)$/;"	f
+ngx_http_lua_log_by_lua	./ngx_http_lua_directive.c	/^ngx_http_lua_log_by_lua(ngx_conf_t *cf, ngx_command_t *cmd, void *conf)$/;"	f
+ngx_http_lua_log_by_lua_env	./ngx_http_lua_logby.c	/^ngx_http_lua_log_by_lua_env(lua_State *L, ngx_http_request_t *r)$/;"	f	file:
+ngx_http_lua_log_handler	./ngx_http_lua_logby.c	/^ngx_http_lua_log_handler(ngx_http_request_t *r)$/;"	f
+ngx_http_lua_log_handler_file	./ngx_http_lua_logby.c	/^ngx_http_lua_log_handler_file(ngx_http_request_t *r)$/;"	f
+ngx_http_lua_log_handler_inline	./ngx_http_lua_logby.c	/^ngx_http_lua_log_handler_inline(ngx_http_request_t *r)$/;"	f
+ngx_http_lua_log_init_worker_error	./ngx_http_lua_initworkerby.c	/^ngx_http_lua_log_init_worker_error(ngx_log_t *log, u_char *buf, size_t len)$/;"	f	file:
+ngx_http_lua_log_timer_error	./ngx_http_lua_timer.c	/^ngx_http_lua_log_timer_error(ngx_log_t *log, u_char *buf, size_t len)$/;"	f	file:
+ngx_http_lua_lowat_check	./ngx_http_lua_module.c	/^ngx_http_lua_lowat_check(ngx_conf_t *cf, void *post, void *data)$/;"	f	file:
+ngx_http_lua_lowat_post	./ngx_http_lua_module.c	/^static ngx_conf_post_t  ngx_http_lua_lowat_post =$/;"	v	file:
+ngx_http_lua_main_conf_s	./ngx_http_lua_common.h	/^struct ngx_http_lua_main_conf_s {$/;"	s
+ngx_http_lua_main_conf_t	./ngx_http_lua_common.h	/^typedef struct ngx_http_lua_main_conf_s ngx_http_lua_main_conf_t;$/;"	t	typeref:struct:ngx_http_lua_main_conf_s
+ngx_http_lua_merge_loc_conf	./ngx_http_lua_module.c	/^ngx_http_lua_merge_loc_conf(ngx_conf_t *cf, void *parent, void *child)$/;"	f	file:
+ngx_http_lua_method_name	./ngx_http_lua_subrequest.c	28;"	d	file:
+ngx_http_lua_mkcol_method	./ngx_http_lua_subrequest.c	/^ngx_str_t  ngx_http_lua_mkcol_method =$/;"	v
+ngx_http_lua_module	./ngx_http_lua_module.c	/^ngx_module_t ngx_http_lua_module = {$/;"	v
+ngx_http_lua_module_ctx	./ngx_http_lua_module.c	/^ngx_http_module_t ngx_http_lua_module_ctx = {$/;"	v
+ngx_http_lua_move_method	./ngx_http_lua_subrequest.c	/^ngx_str_t  ngx_http_lua_move_method = ngx_http_lua_method_name("MOVE");$/;"	v
+ngx_http_lua_nargs_key	./ngx_http_lua_setby.c	35;"	d	file:
+ngx_http_lua_ndk_set_var_get	./ngx_http_lua_ndk.c	/^ngx_http_lua_ndk_set_var_get(lua_State *L)$/;"	f
+ngx_http_lua_ndk_set_var_set	./ngx_http_lua_ndk.c	/^ngx_http_lua_ndk_set_var_set(lua_State *L)$/;"	f
+ngx_http_lua_new_state	./ngx_http_lua_util.c	/^ngx_http_lua_new_state(lua_State *parent_vm, ngx_cycle_t *cycle,$/;"	f	file:
+ngx_http_lua_new_thread	./ngx_http_lua_util.c	/^ngx_http_lua_new_thread(ngx_http_request_t *r, lua_State *L, int *ref)$/;"	f
+ngx_http_lua_next_body_filter	./ngx_http_lua_capturefilter.c	/^ngx_http_output_body_filter_pt ngx_http_lua_next_body_filter;$/;"	v
+ngx_http_lua_next_header_filter	./ngx_http_lua_capturefilter.c	/^ngx_http_output_header_filter_pt ngx_http_lua_next_header_filter;$/;"	v
+ngx_http_lua_ngx_cookie_time	./ngx_http_lua_time.c	/^ngx_http_lua_ngx_cookie_time(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_crc32_long	./ngx_http_lua_string.c	/^ngx_http_lua_ngx_crc32_long(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_crc32_short	./ngx_http_lua_string.c	/^ngx_http_lua_ngx_crc32_short(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_ctx_add_cleanup	./ngx_http_lua_ctx.c	/^ngx_http_lua_ngx_ctx_add_cleanup(ngx_http_request_t *r, int ref)$/;"	f	file:
+ngx_http_lua_ngx_ctx_cleanup	./ngx_http_lua_ctx.c	/^ngx_http_lua_ngx_ctx_cleanup(void *data)$/;"	f	file:
+ngx_http_lua_ngx_ctx_cleanup_data_t	./ngx_http_lua_ctx.c	/^} ngx_http_lua_ngx_ctx_cleanup_data_t;$/;"	t	typeref:struct:__anon17	file:
+ngx_http_lua_ngx_decode_args	./ngx_http_lua_string.c	/^ngx_http_lua_ngx_decode_args(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_decode_base64	./ngx_http_lua_string.c	/^ngx_http_lua_ngx_decode_base64(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_echo	./ngx_http_lua_output.c	/^ngx_http_lua_ngx_echo(lua_State *L, unsigned newline)$/;"	f	file:
+ngx_http_lua_ngx_encode_args	./ngx_http_lua_string.c	/^ngx_http_lua_ngx_encode_args(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_encode_base64	./ngx_http_lua_string.c	/^ngx_http_lua_ngx_encode_base64(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_eof	./ngx_http_lua_output.c	/^ngx_http_lua_ngx_eof(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_escape_sql_str	./ngx_http_lua_string.c	/^ngx_http_lua_ngx_escape_sql_str(u_char *dst, u_char *src, size_t size)$/;"	f	file:
+ngx_http_lua_ngx_escape_uri	./ngx_http_lua_string.c	/^ngx_http_lua_ngx_escape_uri(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_exec	./ngx_http_lua_control.c	/^ngx_http_lua_ngx_exec(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_exit	./ngx_http_lua_control.c	/^ngx_http_lua_ngx_exit(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_flush	./ngx_http_lua_output.c	/^ngx_http_lua_ngx_flush(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_get	./ngx_http_lua_misc.c	/^ngx_http_lua_ngx_get(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_get_ctx	./ngx_http_lua_ctx.c	/^ngx_http_lua_ngx_get_ctx(lua_State *L)$/;"	f
+ngx_http_lua_ngx_get_phase	./ngx_http_lua_phase.c	/^ngx_http_lua_ngx_get_phase(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_header_get	./ngx_http_lua_headers.c	/^ngx_http_lua_ngx_header_get(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_header_set	./ngx_http_lua_headers.c	/^ngx_http_lua_ngx_header_set(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_hmac_sha1	./ngx_http_lua_string.c	/^ngx_http_lua_ngx_hmac_sha1(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_http_time	./ngx_http_lua_time.c	/^ngx_http_lua_ngx_http_time(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_localtime	./ngx_http_lua_time.c	/^ngx_http_lua_ngx_localtime(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_location_capture	./ngx_http_lua_subrequest.c	/^ngx_http_lua_ngx_location_capture(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_location_capture_multi	./ngx_http_lua_subrequest.c	/^ngx_http_lua_ngx_location_capture_multi(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_log	./ngx_http_lua_log.c	/^ngx_http_lua_ngx_log(lua_State *L)$/;"	f
+ngx_http_lua_ngx_md5	./ngx_http_lua_string.c	/^ngx_http_lua_ngx_md5(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_md5_bin	./ngx_http_lua_string.c	/^ngx_http_lua_ngx_md5_bin(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_now	./ngx_http_lua_time.c	/^ngx_http_lua_ngx_now(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_parse_http_time	./ngx_http_lua_time.c	/^ngx_http_lua_ngx_parse_http_time(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_print	./ngx_http_lua_output.c	/^ngx_http_lua_ngx_print(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_quote_sql_str	./ngx_http_lua_string.c	/^ngx_http_lua_ngx_quote_sql_str(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_re_find	./ngx_http_lua_regex.c	/^ngx_http_lua_ngx_re_find(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_re_gmatch	./ngx_http_lua_regex.c	/^ngx_http_lua_ngx_re_gmatch(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_re_gmatch_cleanup	./ngx_http_lua_regex.c	/^ngx_http_lua_ngx_re_gmatch_cleanup(void *data)$/;"	f	file:
+ngx_http_lua_ngx_re_gmatch_gc	./ngx_http_lua_regex.c	/^ngx_http_lua_ngx_re_gmatch_gc(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_re_gmatch_iterator	./ngx_http_lua_regex.c	/^ngx_http_lua_ngx_re_gmatch_iterator(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_re_gsub	./ngx_http_lua_regex.c	/^ngx_http_lua_ngx_re_gsub(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_re_match	./ngx_http_lua_regex.c	/^ngx_http_lua_ngx_re_match(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_re_match_helper	./ngx_http_lua_regex.c	/^ngx_http_lua_ngx_re_match_helper(lua_State *L, int wantcaps)$/;"	f	file:
+ngx_http_lua_ngx_re_parse_opts	./ngx_http_lua_regex.c	/^ngx_http_lua_ngx_re_parse_opts(lua_State *L, ngx_http_lua_regex_compile_t *re,$/;"	f	file:
+ngx_http_lua_ngx_re_sub	./ngx_http_lua_regex.c	/^ngx_http_lua_ngx_re_sub(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_re_sub_helper	./ngx_http_lua_regex.c	/^ngx_http_lua_ngx_re_sub_helper(lua_State *L, unsigned global)$/;"	f	file:
+ngx_http_lua_ngx_redirect	./ngx_http_lua_control.c	/^ngx_http_lua_ngx_redirect(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_req_append_body	./ngx_http_lua_req_body.c	/^ngx_http_lua_ngx_req_append_body(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_req_body_finish	./ngx_http_lua_req_body.c	/^ngx_http_lua_ngx_req_body_finish(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_req_discard_body	./ngx_http_lua_req_body.c	/^ngx_http_lua_ngx_req_discard_body(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_req_get_body_data	./ngx_http_lua_req_body.c	/^ngx_http_lua_ngx_req_get_body_data(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_req_get_body_file	./ngx_http_lua_req_body.c	/^ngx_http_lua_ngx_req_get_body_file(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_req_get_headers	./ngx_http_lua_headers.c	/^ngx_http_lua_ngx_req_get_headers(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_req_get_method	./ngx_http_lua_req_method.c	/^ngx_http_lua_ngx_req_get_method(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_req_get_post_args	./ngx_http_lua_args.c	/^ngx_http_lua_ngx_req_get_post_args(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_req_get_uri_args	./ngx_http_lua_args.c	/^ngx_http_lua_ngx_req_get_uri_args(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_req_header_clear	./ngx_http_lua_headers.c	/^ngx_http_lua_ngx_req_header_clear(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_req_header_set	./ngx_http_lua_headers.c	/^ngx_http_lua_ngx_req_header_set(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_req_header_set_helper	./ngx_http_lua_headers.c	/^ngx_http_lua_ngx_req_header_set_helper(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_req_http_version	./ngx_http_lua_headers.c	/^ngx_http_lua_ngx_req_http_version(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_req_init_body	./ngx_http_lua_req_body.c	/^ngx_http_lua_ngx_req_init_body(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_req_raw_header	./ngx_http_lua_headers.c	/^ngx_http_lua_ngx_req_raw_header(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_req_read_body	./ngx_http_lua_req_body.c	/^ngx_http_lua_ngx_req_read_body(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_req_set_body_data	./ngx_http_lua_req_body.c	/^ngx_http_lua_ngx_req_set_body_data(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_req_set_body_file	./ngx_http_lua_req_body.c	/^ngx_http_lua_ngx_req_set_body_file(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_req_set_method	./ngx_http_lua_req_method.c	/^ngx_http_lua_ngx_req_set_method(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_req_set_uri	./ngx_http_lua_uri.c	/^ngx_http_lua_ngx_req_set_uri(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_req_set_uri_args	./ngx_http_lua_args.c	/^ngx_http_lua_ngx_req_set_uri_args(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_req_start_time	./ngx_http_lua_time.c	/^ngx_http_lua_ngx_req_start_time(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_resp_get_headers	./ngx_http_lua_headers.c	/^ngx_http_lua_ngx_resp_get_headers(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_say	./ngx_http_lua_output.c	/^ngx_http_lua_ngx_say(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_send_headers	./ngx_http_lua_output.c	/^ngx_http_lua_ngx_send_headers(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_set	./ngx_http_lua_misc.c	/^ngx_http_lua_ngx_set(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_set_ctx	./ngx_http_lua_ctx.c	/^ngx_http_lua_ngx_set_ctx(lua_State *L)$/;"	f
+ngx_http_lua_ngx_set_ctx_helper	./ngx_http_lua_ctx.c	/^ngx_http_lua_ngx_set_ctx_helper(lua_State *L, ngx_http_request_t *r,$/;"	f
+ngx_http_lua_ngx_sha1_bin	./ngx_http_lua_string.c	/^ngx_http_lua_ngx_sha1_bin(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_sleep	./ngx_http_lua_sleep.c	/^ngx_http_lua_ngx_sleep(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_time	./ngx_http_lua_time.c	/^ngx_http_lua_ngx_time(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_timer_at	./ngx_http_lua_timer.c	/^ngx_http_lua_ngx_timer_at(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_today	./ngx_http_lua_time.c	/^ngx_http_lua_ngx_today(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_unescape_uri	./ngx_http_lua_string.c	/^ngx_http_lua_ngx_unescape_uri(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_update_time	./ngx_http_lua_time.c	/^ngx_http_lua_ngx_update_time(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_utctime	./ngx_http_lua_time.c	/^ngx_http_lua_ngx_utctime(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_worker_exiting	./ngx_http_lua_worker.c	/^ngx_http_lua_ngx_worker_exiting(lua_State *L)$/;"	f	file:
+ngx_http_lua_ngx_worker_pid	./ngx_http_lua_worker.c	/^ngx_http_lua_ngx_worker_pid(lua_State *L)$/;"	f	file:
+ngx_http_lua_on_abort	./ngx_http_lua_control.c	/^ngx_http_lua_on_abort(lua_State *L)$/;"	f	file:
+ngx_http_lua_on_abort_resume	./ngx_http_lua_util.c	/^ngx_http_lua_on_abort_resume(ngx_http_request_t *r)$/;"	f	file:
+ngx_http_lua_open_and_stat_file	./ngx_http_lua_util.c	/^ngx_http_lua_open_and_stat_file(u_char *name, ngx_open_file_info_t *of,$/;"	f
+ngx_http_lua_options_method	./ngx_http_lua_subrequest.c	/^ngx_str_t  ngx_http_lua_options_method =$/;"	v
+ngx_http_lua_output_filter	./ngx_http_lua_util.c	/^ngx_http_lua_output_filter(ngx_http_request_t *r, ngx_chain_t *in)$/;"	f	file:
+ngx_http_lua_package_cpath	./ngx_http_lua_directive.c	/^ngx_http_lua_package_cpath(ngx_conf_t *cf, ngx_command_t *cmd, void *conf)$/;"	f
+ngx_http_lua_package_path	./ngx_http_lua_directive.c	/^ngx_http_lua_package_path(ngx_conf_t *cf, ngx_command_t *cmd, void *conf)$/;"	f
+ngx_http_lua_param_get	./ngx_http_lua_util.c	/^ngx_http_lua_param_get(lua_State *L)$/;"	f	file:
+ngx_http_lua_param_set	./ngx_http_lua_util.c	/^ngx_http_lua_param_set(lua_State *L)$/;"	f	file:
+ngx_http_lua_parse_args	./ngx_http_lua_args.c	/^ngx_http_lua_parse_args(lua_State *L, u_char *buf, u_char *last, int max)$/;"	f
+ngx_http_lua_patch_method	./ngx_http_lua_subrequest.c	/^ngx_str_t  ngx_http_lua_patch_method =$/;"	v
+ngx_http_lua_pattern_udata_metatable_key	./ngx_http_lua_socket_tcp.c	/^static char ngx_http_lua_pattern_udata_metatable_key;$/;"	v	file:
+ngx_http_lua_pcre_free	./ngx_http_lua_pcrefix.c	/^ngx_http_lua_pcre_free(void *ptr)$/;"	f	file:
+ngx_http_lua_pcre_malloc	./ngx_http_lua_pcrefix.c	/^ngx_http_lua_pcre_malloc(size_t size)$/;"	f	file:
+ngx_http_lua_pcre_malloc_done	./ngx_http_lua_pcrefix.c	/^ngx_http_lua_pcre_malloc_done(ngx_pool_t *old_pool)$/;"	f
+ngx_http_lua_pcre_malloc_init	./ngx_http_lua_pcrefix.c	/^ngx_http_lua_pcre_malloc_init(ngx_pool_t *pool)$/;"	f
+ngx_http_lua_pcre_pool	./ngx_http_lua_pcrefix.c	/^static ngx_pool_t *ngx_http_lua_pcre_pool = NULL;$/;"	v	file:
+ngx_http_lua_pool_cleanup_file	./ngx_http_lua_req_body.c	/^ngx_http_lua_pool_cleanup_file(ngx_pool_t *p, ngx_fd_t fd)$/;"	f	file:
+ngx_http_lua_pool_udata_metatable_key	./ngx_http_lua_socket_tcp.c	/^static char ngx_http_lua_pool_udata_metatable_key;$/;"	v	file:
+ngx_http_lua_post_method	./ngx_http_lua_subrequest.c	/^ngx_str_t  ngx_http_lua_post_method = ngx_http_lua_method_name("POST");$/;"	v
+ngx_http_lua_post_subrequest	./ngx_http_lua_subrequest.c	/^ngx_http_lua_post_subrequest(ngx_http_request_t *r, void *data, ngx_int_t rc)$/;"	f
+ngx_http_lua_post_subrequest_data_s	./ngx_http_lua_subrequest.h	/^typedef struct ngx_http_lua_post_subrequest_data_s {$/;"	s
+ngx_http_lua_post_subrequest_data_t	./ngx_http_lua_subrequest.h	/^} ngx_http_lua_post_subrequest_data_t;$/;"	t	typeref:struct:ngx_http_lua_post_subrequest_data_s
+ngx_http_lua_post_thread	./ngx_http_lua_util.c	/^ngx_http_lua_post_thread(ngx_http_request_t *r, ngx_http_lua_ctx_t *ctx,$/;"	f
+ngx_http_lua_post_zombie_thread	./ngx_http_lua_util.c	/^ngx_http_lua_post_zombie_thread(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_posted_thread_s	./ngx_http_lua_common.h	/^struct ngx_http_lua_posted_thread_s {$/;"	s
+ngx_http_lua_posted_thread_t	./ngx_http_lua_common.h	/^typedef struct ngx_http_lua_posted_thread_s  ngx_http_lua_posted_thread_t;$/;"	t	typeref:struct:ngx_http_lua_posted_thread_s
+ngx_http_lua_preload_hook_t	./ngx_http_lua_common.h	/^} ngx_http_lua_preload_hook_t;$/;"	t	typeref:struct:__anon10
+ngx_http_lua_prev_cycle	./ngx_http_lua_module.c	/^static volatile ngx_cycle_t  *ngx_http_lua_prev_cycle = NULL;$/;"	v	file:
+ngx_http_lua_print	./ngx_http_lua_log.c	/^ngx_http_lua_print(lua_State *L)$/;"	f
+ngx_http_lua_probe_coroutine_done	./ngx_http_lua_probe.h	59;"	d
+ngx_http_lua_probe_coroutine_done	./ngx_http_lua_probe.h	80;"	d
+ngx_http_lua_probe_info	./ngx_http_lua_probe.h	20;"	d
+ngx_http_lua_probe_info	./ngx_http_lua_probe.h	67;"	d
+ngx_http_lua_probe_info	./ngx_http_lua_socket_udp.c	22;"	d	file:
+ngx_http_lua_probe_info	./ngx_http_lua_socket_udp.c	23;"	d	file:
+ngx_http_lua_probe_info	./ngx_http_lua_uthread.c	20;"	d	file:
+ngx_http_lua_probe_info	./ngx_http_lua_uthread.c	21;"	d	file:
+ngx_http_lua_probe_info	./ngx_http_lua_util.c	55;"	d	file:
+ngx_http_lua_probe_info	./ngx_http_lua_util.c	56;"	d	file:
+ngx_http_lua_probe_register_preload_package	./ngx_http_lua_probe.h	23;"	d
+ngx_http_lua_probe_register_preload_package	./ngx_http_lua_probe.h	68;"	d
+ngx_http_lua_probe_req_socket_consume_preread	./ngx_http_lua_probe.h	26;"	d
+ngx_http_lua_probe_req_socket_consume_preread	./ngx_http_lua_probe.h	69;"	d
+ngx_http_lua_probe_run_posted_thread	./ngx_http_lua_probe.h	56;"	d
+ngx_http_lua_probe_run_posted_thread	./ngx_http_lua_probe.h	79;"	d
+ngx_http_lua_probe_socket_tcp_receive_done	./ngx_http_lua_probe.h	44;"	d
+ngx_http_lua_probe_socket_tcp_receive_done	./ngx_http_lua_probe.h	75;"	d
+ngx_http_lua_probe_socket_tcp_send_start	./ngx_http_lua_probe.h	41;"	d
+ngx_http_lua_probe_socket_tcp_send_start	./ngx_http_lua_probe.h	74;"	d
+ngx_http_lua_probe_socket_tcp_setkeepalive_buf_unread	./ngx_http_lua_probe.h	47;"	d
+ngx_http_lua_probe_socket_tcp_setkeepalive_buf_unread	./ngx_http_lua_probe.h	76;"	d
+ngx_http_lua_probe_thread_delete	./ngx_http_lua_probe.h	53;"	d
+ngx_http_lua_probe_thread_delete	./ngx_http_lua_probe.h	78;"	d
+ngx_http_lua_probe_thread_yield	./ngx_http_lua_probe.h	38;"	d
+ngx_http_lua_probe_thread_yield	./ngx_http_lua_probe.h	73;"	d
+ngx_http_lua_probe_user_coroutine_create	./ngx_http_lua_probe.h	29;"	d
+ngx_http_lua_probe_user_coroutine_create	./ngx_http_lua_probe.h	70;"	d
+ngx_http_lua_probe_user_coroutine_resume	./ngx_http_lua_probe.h	32;"	d
+ngx_http_lua_probe_user_coroutine_resume	./ngx_http_lua_probe.h	71;"	d
+ngx_http_lua_probe_user_coroutine_yield	./ngx_http_lua_probe.h	35;"	d
+ngx_http_lua_probe_user_coroutine_yield	./ngx_http_lua_probe.h	72;"	d
+ngx_http_lua_probe_user_thread_spawn	./ngx_http_lua_probe.h	50;"	d
+ngx_http_lua_probe_user_thread_spawn	./ngx_http_lua_probe.h	77;"	d
+ngx_http_lua_probe_user_thread_wait	./ngx_http_lua_probe.h	62;"	d
+ngx_http_lua_probe_user_thread_wait	./ngx_http_lua_probe.h	81;"	d
+ngx_http_lua_process_args_option	./ngx_http_lua_util.c	/^ngx_http_lua_process_args_option(ngx_http_request_t *r, lua_State *L,$/;"	f
+ngx_http_lua_process_flushing_coroutines	./ngx_http_lua_util.c	/^ngx_http_lua_process_flushing_coroutines(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_process_vars_option	./ngx_http_lua_subrequest.c	/^ngx_http_lua_process_vars_option(ngx_http_request_t *r, lua_State *L,$/;"	f	file:
+ngx_http_lua_propfind_method	./ngx_http_lua_subrequest.c	/^ngx_str_t  ngx_http_lua_propfind_method =$/;"	v
+ngx_http_lua_proppatch_method	./ngx_http_lua_subrequest.c	/^ngx_str_t  ngx_http_lua_proppatch_method =$/;"	v
+ngx_http_lua_put_method	./ngx_http_lua_subrequest.c	/^ngx_str_t  ngx_http_lua_put_method = ngx_http_lua_method_name("PUT");$/;"	v
+ngx_http_lua_raw_req_socket_metatable_key	./ngx_http_lua_socket_tcp.c	/^static char ngx_http_lua_raw_req_socket_metatable_key;$/;"	v	file:
+ngx_http_lua_rd_check_broken_connection	./ngx_http_lua_util.c	/^ngx_http_lua_rd_check_broken_connection(ngx_http_request_t *r)$/;"	f
+ngx_http_lua_re_collect_named_captures	./ngx_http_lua_regex.c	/^ngx_http_lua_re_collect_named_captures(lua_State *L, int res_tb_idx,$/;"	f	file:
+ngx_http_lua_read_body_resume	./ngx_http_lua_req_body.c	/^ngx_http_lua_read_body_resume(ngx_http_request_t *r)$/;"	f	file:
+ngx_http_lua_rebase_path	./ngx_http_lua_util.c	/^ngx_http_lua_rebase_path(ngx_pool_t *pool, u_char *src, size_t len)$/;"	f
+ngx_http_lua_regex_cache_key	./ngx_http_lua_util.c	/^char ngx_http_lua_regex_cache_key;$/;"	v
+ngx_http_lua_regex_compile	./ngx_http_lua_regex.c	/^ngx_http_lua_regex_compile(ngx_http_lua_regex_compile_t *rc)$/;"	f	file:
+ngx_http_lua_regex_compile_t	./ngx_http_lua_regex.c	/^} ngx_http_lua_regex_compile_t;$/;"	t	typeref:struct:__anon19	file:
+ngx_http_lua_regex_ctx_t	./ngx_http_lua_regex.c	/^} ngx_http_lua_regex_ctx_t;$/;"	t	typeref:struct:__anon20	file:
+ngx_http_lua_regex_dfa_exec	./ngx_http_lua_regex.c	117;"	d	file:
+ngx_http_lua_regex_exec	./ngx_http_lua_regex.c	112;"	d	file:
+ngx_http_lua_regex_free_study_data	./ngx_http_lua_regex.c	/^ngx_http_lua_regex_free_study_data(ngx_pool_t *pool, pcre_extra *sd)$/;"	f	file:
+ngx_http_lua_regex_t	./ngx_http_lua_regex.c	/^} ngx_http_lua_regex_t;$/;"	t	typeref:struct:__anon18	file:
+ngx_http_lua_report	./ngx_http_lua_util.c	/^ngx_http_lua_report(ngx_log_t *log, lua_State *L, int status,$/;"	f
+ngx_http_lua_req_body_cleanup	./ngx_http_lua_req_body.c	/^ngx_http_lua_req_body_cleanup(void *data)$/;"	f	file:
+ngx_http_lua_req_body_post_read	./ngx_http_lua_req_body.c	/^ngx_http_lua_req_body_post_read(ngx_http_request_t *r)$/;"	f	file:
+ngx_http_lua_req_key	./ngx_http_lua_util.h	318;"	d
+ngx_http_lua_req_socket	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_req_socket(lua_State *L)$/;"	f	file:
+ngx_http_lua_req_socket_metatable_key	./ngx_http_lua_socket_tcp.c	/^static char ngx_http_lua_req_socket_metatable_key;$/;"	v	file:
+ngx_http_lua_req_socket_rev_handler	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_req_socket_rev_handler(ngx_http_request_t *r)$/;"	f	file:
+ngx_http_lua_request_cleanup	./ngx_http_lua_util.c	/^ngx_http_lua_request_cleanup(ngx_http_lua_ctx_t *ctx, int forcible)$/;"	f
+ngx_http_lua_request_cleanup_handler	./ngx_http_lua_util.c	/^ngx_http_lua_request_cleanup_handler(void *data)$/;"	f
+ngx_http_lua_reset_ctx	./ngx_http_lua_util.c	/^ngx_http_lua_reset_ctx(ngx_http_request_t *r, lua_State *L,$/;"	f
+ngx_http_lua_rewrite_by_chunk	./ngx_http_lua_rewriteby.c	/^ngx_http_lua_rewrite_by_chunk(lua_State *L, ngx_http_request_t *r)$/;"	f	file:
+ngx_http_lua_rewrite_by_lua	./ngx_http_lua_directive.c	/^ngx_http_lua_rewrite_by_lua(ngx_conf_t *cf, ngx_command_t *cmd, void *conf)$/;"	f
+ngx_http_lua_rewrite_handler	./ngx_http_lua_rewriteby.c	/^ngx_http_lua_rewrite_handler(ngx_http_request_t *r)$/;"	f
+ngx_http_lua_rewrite_handler_file	./ngx_http_lua_rewriteby.c	/^ngx_http_lua_rewrite_handler_file(ngx_http_request_t *r)$/;"	f
+ngx_http_lua_rewrite_handler_inline	./ngx_http_lua_rewriteby.c	/^ngx_http_lua_rewrite_handler_inline(ngx_http_request_t *r)$/;"	f
+ngx_http_lua_rm_header_helper	./ngx_http_lua_headers_in.c	/^ngx_http_lua_rm_header_helper(ngx_list_t *l, ngx_list_part_t *cur,$/;"	f	file:
+ngx_http_lua_run_posted_threads	./ngx_http_lua_util.c	/^ngx_http_lua_run_posted_threads(ngx_connection_t *c, lua_State *L,$/;"	f
+ngx_http_lua_run_set_var_directive	./ngx_http_lua_ndk.c	/^ngx_http_lua_run_set_var_directive(lua_State *L)$/;"	f
+ngx_http_lua_run_thread	./ngx_http_lua_util.c	/^ngx_http_lua_run_thread(lua_State *L, ngx_http_request_t *r,$/;"	f
+ngx_http_lua_script_add_capture_code	./ngx_http_lua_script.c	/^ngx_http_lua_script_add_capture_code(ngx_http_lua_script_compile_t *sc,$/;"	f	file:
+ngx_http_lua_script_add_code	./ngx_http_lua_script.c	/^ngx_http_lua_script_add_code(ngx_array_t *codes, size_t size)$/;"	f	file:
+ngx_http_lua_script_add_copy_code	./ngx_http_lua_script.c	/^ngx_http_lua_script_add_copy_code(ngx_http_lua_script_compile_t *sc,$/;"	f	file:
+ngx_http_lua_script_capture_code_t	./ngx_http_lua_script.h	/^} ngx_http_lua_script_capture_code_t;$/;"	t	typeref:struct:__anon26
+ngx_http_lua_script_code_pt	./ngx_http_lua_script.h	/^typedef void (*ngx_http_lua_script_code_pt) (ngx_http_lua_script_engine_t *e);$/;"	t
+ngx_http_lua_script_compile	./ngx_http_lua_script.c	/^ngx_http_lua_script_compile(ngx_http_lua_script_compile_t *sc)$/;"	f	file:
+ngx_http_lua_script_compile_t	./ngx_http_lua_script.h	/^} ngx_http_lua_script_compile_t;$/;"	t	typeref:struct:__anon21
+ngx_http_lua_script_copy_capture_code	./ngx_http_lua_script.c	/^ngx_http_lua_script_copy_capture_code(ngx_http_lua_script_engine_t *e)$/;"	f	file:
+ngx_http_lua_script_copy_capture_len_code	./ngx_http_lua_script.c	/^ngx_http_lua_script_copy_capture_len_code(ngx_http_lua_script_engine_t *e)$/;"	f	file:
+ngx_http_lua_script_copy_code	./ngx_http_lua_script.c	/^ngx_http_lua_script_copy_code(ngx_http_lua_script_engine_t *e)$/;"	f	file:
+ngx_http_lua_script_copy_code_t	./ngx_http_lua_script.h	/^} ngx_http_lua_script_copy_code_t;$/;"	t	typeref:struct:__anon25
+ngx_http_lua_script_copy_len_code	./ngx_http_lua_script.c	/^ngx_http_lua_script_copy_len_code(ngx_http_lua_script_engine_t *e)$/;"	f	file:
+ngx_http_lua_script_done	./ngx_http_lua_script.c	/^ngx_http_lua_script_done(ngx_http_lua_script_compile_t *sc)$/;"	f	file:
+ngx_http_lua_script_engine_t	./ngx_http_lua_script.h	/^} ngx_http_lua_script_engine_t;$/;"	t	typeref:struct:__anon24
+ngx_http_lua_script_init_arrays	./ngx_http_lua_script.c	/^ngx_http_lua_script_init_arrays(ngx_http_lua_script_compile_t *sc)$/;"	f	file:
+ngx_http_lua_script_len_code_pt	./ngx_http_lua_script.h	/^typedef size_t (*ngx_http_lua_script_len_code_pt)$/;"	t
+ngx_http_lua_send_chain_link	./ngx_http_lua_util.c	/^ngx_http_lua_send_chain_link(ngx_http_request_t *r, ngx_http_lua_ctx_t *ctx,$/;"	f
+ngx_http_lua_send_header_if_needed	./ngx_http_lua_util.c	/^ngx_http_lua_send_header_if_needed(ngx_http_request_t *r,$/;"	f
+ngx_http_lua_send_http10_headers	./ngx_http_lua_util.c	/^ngx_http_lua_send_http10_headers(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_send_special	./ngx_http_lua_util.c	/^ngx_http_lua_send_special(ngx_http_request_t *r, ngx_uint_t flags)$/;"	f	file:
+ngx_http_lua_set_by_chunk	./ngx_http_lua_setby.c	/^ngx_http_lua_set_by_chunk(lua_State *L, ngx_http_request_t *r, ngx_str_t *val,$/;"	f
+ngx_http_lua_set_by_lua	./ngx_http_lua_directive.c	/^ngx_http_lua_set_by_lua(ngx_conf_t *cf, ngx_command_t *cmd, void *conf)$/;"	f
+ngx_http_lua_set_by_lua_env	./ngx_http_lua_setby.c	/^ngx_http_lua_set_by_lua_env(lua_State *L, ngx_http_request_t *r, size_t nargs,$/;"	f	file:
+ngx_http_lua_set_by_lua_file	./ngx_http_lua_directive.c	/^ngx_http_lua_set_by_lua_file(ngx_conf_t *cf, ngx_command_t *cmd, void *conf)$/;"	f
+ngx_http_lua_set_by_lua_init	./ngx_http_lua_directive.c	/^ngx_http_lua_set_by_lua_init(ngx_http_request_t *r)$/;"	f	file:
+ngx_http_lua_set_content_length_header	./ngx_http_lua_subrequest.c	/^ngx_http_lua_set_content_length_header(ngx_http_request_t *r, off_t len)$/;"	f	file:
+ngx_http_lua_set_content_type	./ngx_http_lua_util.h	/^ngx_http_lua_set_content_type(ngx_http_request_t *r)$/;"	f
+ngx_http_lua_set_globals_table	./ngx_http_lua_util.h	/^ngx_http_lua_set_globals_table(lua_State *L)$/;"	f
+ngx_http_lua_set_handlers	./ngx_http_lua_headers_in.c	/^static ngx_http_lua_set_header_t  ngx_http_lua_set_handlers[] = {$/;"	v	file:
+ngx_http_lua_set_handlers	./ngx_http_lua_headers_out.c	/^static ngx_http_lua_set_header_t  ngx_http_lua_set_handlers[] = {$/;"	v	file:
+ngx_http_lua_set_header_pt	./ngx_http_lua_common.h	/^typedef ngx_int_t (*ngx_http_lua_set_header_pt)(ngx_http_request_t *r,$/;"	t
+ngx_http_lua_set_header_t	./ngx_http_lua_common.h	/^} ngx_http_lua_set_header_t;$/;"	t	typeref:struct:__anon16
+ngx_http_lua_set_input_header	./ngx_http_lua_headers_in.c	/^ngx_http_lua_set_input_header(ngx_http_request_t *r, ngx_str_t key,$/;"	f
+ngx_http_lua_set_multi_value_table	./ngx_http_lua_util.c	/^ngx_http_lua_set_multi_value_table(lua_State *L, int index)$/;"	f
+ngx_http_lua_set_output_header	./ngx_http_lua_headers_out.c	/^ngx_http_lua_set_output_header(ngx_http_request_t *r, ngx_str_t key,$/;"	f
+ngx_http_lua_set_path	./ngx_http_lua_util.c	/^ngx_http_lua_set_path(ngx_cycle_t *cycle, lua_State *L, int tab_idx,$/;"	f	file:
+ngx_http_lua_set_req	./ngx_http_lua_util.h	/^ngx_http_lua_set_req(lua_State *L, ngx_http_request_t *r)$/;"	f
+ngx_http_lua_set_ssl	./ngx_http_lua_module.c	/^ngx_http_lua_set_ssl(ngx_conf_t *cf, ngx_http_lua_loc_conf_t *llcf)$/;"	f	file:
+ngx_http_lua_set_var_data_t	./ngx_http_lua_common.h	/^} ngx_http_lua_set_var_data_t;$/;"	t	typeref:struct:__anon9
+ngx_http_lua_setby_param_get	./ngx_http_lua_setby.c	/^ngx_http_lua_setby_param_get(lua_State *L)$/;"	f
+ngx_http_lua_shared_dict	./ngx_http_lua_directive.c	/^ngx_http_lua_shared_dict(ngx_conf_t *cf, ngx_command_t *cmd, void *conf)$/;"	f
+ngx_http_lua_shared_dict_get	./ngx_http_lua_shdict.c	/^ngx_http_lua_shared_dict_get(ngx_shm_zone_t *zone, u_char *key_data,$/;"	f
+ngx_http_lua_shdict_add	./ngx_http_lua_shdict.c	/^ngx_http_lua_shdict_add(lua_State *L)$/;"	f	file:
+ngx_http_lua_shdict_ctx_t	./ngx_http_lua_shdict.h	/^} ngx_http_lua_shdict_ctx_t;$/;"	t	typeref:struct:__anon29
+ngx_http_lua_shdict_delete	./ngx_http_lua_shdict.c	/^ngx_http_lua_shdict_delete(lua_State *L)$/;"	f	file:
+ngx_http_lua_shdict_expire	./ngx_http_lua_shdict.c	/^ngx_http_lua_shdict_expire(ngx_http_lua_shdict_ctx_t *ctx, ngx_uint_t n)$/;"	f	file:
+ngx_http_lua_shdict_flush_all	./ngx_http_lua_shdict.c	/^ngx_http_lua_shdict_flush_all(lua_State *L)$/;"	f	file:
+ngx_http_lua_shdict_flush_expired	./ngx_http_lua_shdict.c	/^ngx_http_lua_shdict_flush_expired(lua_State *L)$/;"	f	file:
+ngx_http_lua_shdict_get	./ngx_http_lua_shdict.c	/^ngx_http_lua_shdict_get(lua_State *L)$/;"	f	file:
+ngx_http_lua_shdict_get_helper	./ngx_http_lua_shdict.c	/^ngx_http_lua_shdict_get_helper(lua_State *L, int get_stale)$/;"	f	file:
+ngx_http_lua_shdict_get_keys	./ngx_http_lua_shdict.c	/^ngx_http_lua_shdict_get_keys(lua_State *L)$/;"	f	file:
+ngx_http_lua_shdict_get_stale	./ngx_http_lua_shdict.c	/^ngx_http_lua_shdict_get_stale(lua_State *L)$/;"	f	file:
+ngx_http_lua_shdict_incr	./ngx_http_lua_shdict.c	/^ngx_http_lua_shdict_incr(lua_State *L)$/;"	f	file:
+ngx_http_lua_shdict_init_zone	./ngx_http_lua_shdict.c	/^ngx_http_lua_shdict_init_zone(ngx_shm_zone_t *shm_zone, void *data)$/;"	f
+ngx_http_lua_shdict_lookup	./ngx_http_lua_shdict.c	/^ngx_http_lua_shdict_lookup(ngx_shm_zone_t *shm_zone, ngx_uint_t hash,$/;"	f	file:
+ngx_http_lua_shdict_node_t	./ngx_http_lua_shdict.h	/^} ngx_http_lua_shdict_node_t;$/;"	t	typeref:struct:__anon27
+ngx_http_lua_shdict_rbtree_insert_value	./ngx_http_lua_shdict.c	/^ngx_http_lua_shdict_rbtree_insert_value(ngx_rbtree_node_t *temp,$/;"	f
+ngx_http_lua_shdict_replace	./ngx_http_lua_shdict.c	/^ngx_http_lua_shdict_replace(lua_State *L)$/;"	f	file:
+ngx_http_lua_shdict_safe_add	./ngx_http_lua_shdict.c	/^ngx_http_lua_shdict_safe_add(lua_State *L)$/;"	f	file:
+ngx_http_lua_shdict_safe_set	./ngx_http_lua_shdict.c	/^ngx_http_lua_shdict_safe_set(lua_State *L)$/;"	f	file:
+ngx_http_lua_shdict_set	./ngx_http_lua_shdict.c	/^ngx_http_lua_shdict_set(lua_State *L)$/;"	f	file:
+ngx_http_lua_shdict_set_helper	./ngx_http_lua_shdict.c	/^ngx_http_lua_shdict_set_helper(lua_State *L, int flags)$/;"	f	file:
+ngx_http_lua_shdict_shctx_t	./ngx_http_lua_shdict.h	/^} ngx_http_lua_shdict_shctx_t;$/;"	t	typeref:struct:__anon28
+ngx_http_lua_sleep_cleanup	./ngx_http_lua_sleep.c	/^ngx_http_lua_sleep_cleanup(void *data)$/;"	f	file:
+ngx_http_lua_sleep_handler	./ngx_http_lua_sleep.c	/^ngx_http_lua_sleep_handler(ngx_event_t *ev)$/;"	f
+ngx_http_lua_sleep_resume	./ngx_http_lua_sleep.c	/^ngx_http_lua_sleep_resume(ngx_http_request_t *r)$/;"	f	file:
+ngx_http_lua_socket_add_input_buffer	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_add_input_buffer(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_socket_add_pending_data	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_add_pending_data(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_socket_check_busy_connecting	./ngx_http_lua_socket_tcp.c	152;"	d	file:
+ngx_http_lua_socket_check_busy_reading	./ngx_http_lua_socket_tcp.c	160;"	d	file:
+ngx_http_lua_socket_check_busy_writing	./ngx_http_lua_socket_tcp.c	168;"	d	file:
+ngx_http_lua_socket_cleanup_compiled_pattern	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_cleanup_compiled_pattern(lua_State *L)$/;"	f	file:
+ngx_http_lua_socket_compile_pattern	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_compile_pattern(u_char *data, size_t len,$/;"	f	file:
+ngx_http_lua_socket_compiled_pattern_t	./ngx_http_lua_socket_tcp.h	/^} ngx_http_lua_socket_compiled_pattern_t;$/;"	t	typeref:struct:__anon33
+ngx_http_lua_socket_conn_error_retval_handler	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_conn_error_retval_handler(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_socket_connected_handler	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_connected_handler(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_socket_downstream_destroy	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_downstream_destroy(lua_State *L)$/;"	f	file:
+ngx_http_lua_socket_dummy_handler	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_dummy_handler(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_socket_dummy_handler	./ngx_http_lua_socket_udp.c	/^ngx_http_lua_socket_dummy_handler(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_socket_empty_resolve_handler	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_empty_resolve_handler(ngx_resolver_ctx_t *ctx)$/;"	f	file:
+ngx_http_lua_socket_error_retval_handler	./ngx_http_lua_socket_udp.c	/^ngx_http_lua_socket_error_retval_handler(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_socket_free_pool	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_free_pool(ngx_log_t *log, ngx_http_lua_socket_pool_t *spool)$/;"	f	file:
+ngx_http_lua_socket_handle_conn_error	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_handle_conn_error(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_socket_handle_conn_success	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_handle_conn_success(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_socket_handle_read_error	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_handle_read_error(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_socket_handle_read_success	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_handle_read_success(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_socket_handle_write_error	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_handle_write_error(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_socket_handle_write_success	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_handle_write_success(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_socket_insert_buffer	./ngx_http_lua_socket_tcp.c	/^static ngx_int_t ngx_http_lua_socket_insert_buffer(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_socket_keepalive_close_handler	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_keepalive_close_handler(ngx_event_t *ev)$/;"	f	file:
+ngx_http_lua_socket_keepalive_dummy_handler	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_keepalive_dummy_handler(ngx_event_t *ev)$/;"	f	file:
+ngx_http_lua_socket_keepalive_rev_handler	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_keepalive_rev_handler(ngx_event_t *ev)$/;"	f	file:
+ngx_http_lua_socket_pool_item_t	./ngx_http_lua_socket_tcp.h	/^} ngx_http_lua_socket_pool_item_t;$/;"	t	typeref:struct:__anon34
+ngx_http_lua_socket_pool_key	./ngx_http_lua_util.c	/^char ngx_http_lua_socket_pool_key;$/;"	v
+ngx_http_lua_socket_pool_t	./ngx_http_lua_socket_tcp.h	/^} ngx_http_lua_socket_pool_t;$/;"	t	typeref:struct:__anon32
+ngx_http_lua_socket_prepare_error_retvals	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_prepare_error_retvals(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_socket_push_input_data	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_push_input_data(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_socket_read_all	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_read_all(void *data, ssize_t bytes)$/;"	f	file:
+ngx_http_lua_socket_read_chunk	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_read_chunk(void *data, ssize_t bytes)$/;"	f	file:
+ngx_http_lua_socket_read_error_retval_handler	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_read_error_retval_handler(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_socket_read_handler	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_read_handler(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_socket_read_line	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_read_line(void *data, ssize_t bytes)$/;"	f	file:
+ngx_http_lua_socket_read_until	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_read_until(void *data, ssize_t bytes)$/;"	f	file:
+ngx_http_lua_socket_receiveuntil_iterator	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_receiveuntil_iterator(lua_State *L)$/;"	f	file:
+ngx_http_lua_socket_resolve_handler	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_resolve_handler(ngx_resolver_ctx_t *ctx)$/;"	f	file:
+ngx_http_lua_socket_resolve_handler	./ngx_http_lua_socket_udp.c	/^ngx_http_lua_socket_resolve_handler(ngx_resolver_ctx_t *ctx)$/;"	f	file:
+ngx_http_lua_socket_resolve_retval_handler	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_resolve_retval_handler(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_socket_resolve_retval_handler	./ngx_http_lua_socket_udp.c	/^ngx_http_lua_socket_resolve_retval_handler(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_socket_send	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_send(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_socket_send_handler	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_send_handler(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_socket_shutdown_pool	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_shutdown_pool(lua_State *L)$/;"	f	file:
+ngx_http_lua_socket_tcp	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_tcp(lua_State *L)$/;"	f	file:
+ngx_http_lua_socket_tcp_cleanup	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_tcp_cleanup(void *data)$/;"	f	file:
+ngx_http_lua_socket_tcp_close	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_tcp_close(lua_State *L)$/;"	f	file:
+ngx_http_lua_socket_tcp_close_connection	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_tcp_close_connection(ngx_connection_t *c)$/;"	f	file:
+ngx_http_lua_socket_tcp_conn_resume	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_tcp_conn_resume(ngx_http_request_t *r)$/;"	f	file:
+ngx_http_lua_socket_tcp_conn_retval_handler	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_tcp_conn_retval_handler(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_socket_tcp_connect	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_tcp_connect(lua_State *L)$/;"	f	file:
+ngx_http_lua_socket_tcp_finalize	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_tcp_finalize(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_socket_tcp_finalize_read_part	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_tcp_finalize_read_part(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_socket_tcp_finalize_write_part	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_tcp_finalize_write_part(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_socket_tcp_get_peer	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_tcp_get_peer(ngx_peer_connection_t *pc, void *data)$/;"	f	file:
+ngx_http_lua_socket_tcp_getreusedtimes	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_tcp_getreusedtimes(lua_State *L)$/;"	f	file:
+ngx_http_lua_socket_tcp_handler	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_tcp_handler(ngx_event_t *ev)$/;"	f	file:
+ngx_http_lua_socket_tcp_read	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_tcp_read(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_socket_tcp_read_resume	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_tcp_read_resume(ngx_http_request_t *r)$/;"	f	file:
+ngx_http_lua_socket_tcp_receive	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_tcp_receive(lua_State *L)$/;"	f	file:
+ngx_http_lua_socket_tcp_receive_retval_handler	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_tcp_receive_retval_handler(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_socket_tcp_receiveuntil	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_tcp_receiveuntil(lua_State *L)$/;"	f	file:
+ngx_http_lua_socket_tcp_resume_helper	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_tcp_resume_helper(ngx_http_request_t *r, int socket_op)$/;"	f	file:
+ngx_http_lua_socket_tcp_retval_handler	./ngx_http_lua_socket_tcp.h	/^    int (*ngx_http_lua_socket_tcp_retval_handler)(ngx_http_request_t *r,$/;"	t
+ngx_http_lua_socket_tcp_send	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_tcp_send(lua_State *L)$/;"	f	file:
+ngx_http_lua_socket_tcp_send_retval_handler	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_tcp_send_retval_handler(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_socket_tcp_setkeepalive	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_tcp_setkeepalive(lua_State *L)$/;"	f	file:
+ngx_http_lua_socket_tcp_setoption	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_tcp_setoption(lua_State *L)$/;"	f	file:
+ngx_http_lua_socket_tcp_settimeout	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_tcp_settimeout(lua_State *L)$/;"	f	file:
+ngx_http_lua_socket_tcp_sslhandshake	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_tcp_sslhandshake(lua_State *L)$/;"	f	file:
+ngx_http_lua_socket_tcp_upstream_destroy	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_tcp_upstream_destroy(lua_State *L)$/;"	f	file:
+ngx_http_lua_socket_tcp_upstream_handler_pt	./ngx_http_lua_socket_tcp.h	/^typedef void (*ngx_http_lua_socket_tcp_upstream_handler_pt)($/;"	t
+ngx_http_lua_socket_tcp_upstream_s	./ngx_http_lua_socket_tcp.h	/^struct ngx_http_lua_socket_tcp_upstream_s {$/;"	s
+ngx_http_lua_socket_tcp_upstream_t	./ngx_http_lua_socket_tcp.h	/^        ngx_http_lua_socket_tcp_upstream_t;$/;"	t	typeref:struct:ngx_http_lua_socket_tcp_upstream_s
+ngx_http_lua_socket_tcp_write_resume	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_tcp_write_resume(ngx_http_request_t *r)$/;"	f	file:
+ngx_http_lua_socket_test_connect	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_test_connect(ngx_http_request_t *r, ngx_connection_t *c)$/;"	f	file:
+ngx_http_lua_socket_udp	./ngx_http_lua_socket_udp.c	/^ngx_http_lua_socket_udp(lua_State *L)$/;"	f	file:
+ngx_http_lua_socket_udp_buffer	./ngx_http_lua_socket_udp.c	/^static u_char ngx_http_lua_socket_udp_buffer[UDP_MAX_DATAGRAM_SIZE];$/;"	v	file:
+ngx_http_lua_socket_udp_cleanup	./ngx_http_lua_socket_udp.c	/^ngx_http_lua_socket_udp_cleanup(void *data)$/;"	f	file:
+ngx_http_lua_socket_udp_close	./ngx_http_lua_socket_udp.c	/^ngx_http_lua_socket_udp_close(lua_State *L)$/;"	f	file:
+ngx_http_lua_socket_udp_finalize	./ngx_http_lua_socket_udp.c	/^ngx_http_lua_socket_udp_finalize(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_socket_udp_handle_error	./ngx_http_lua_socket_udp.c	/^ngx_http_lua_socket_udp_handle_error(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_socket_udp_handle_success	./ngx_http_lua_socket_udp.c	/^ngx_http_lua_socket_udp_handle_success(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_socket_udp_handler	./ngx_http_lua_socket_udp.c	/^ngx_http_lua_socket_udp_handler(ngx_event_t *ev)$/;"	f	file:
+ngx_http_lua_socket_udp_metatable_key	./ngx_http_lua_socket_udp.c	/^static char ngx_http_lua_socket_udp_metatable_key;$/;"	v	file:
+ngx_http_lua_socket_udp_read	./ngx_http_lua_socket_udp.c	/^ngx_http_lua_socket_udp_read(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_socket_udp_read_handler	./ngx_http_lua_socket_udp.c	/^ngx_http_lua_socket_udp_read_handler(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_socket_udp_receive	./ngx_http_lua_socket_udp.c	/^ngx_http_lua_socket_udp_receive(lua_State *L)$/;"	f	file:
+ngx_http_lua_socket_udp_receive_retval_handler	./ngx_http_lua_socket_udp.c	/^ngx_http_lua_socket_udp_receive_retval_handler(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_socket_udp_resume	./ngx_http_lua_socket_udp.c	/^ngx_http_lua_socket_udp_resume(ngx_http_request_t *r)$/;"	f	file:
+ngx_http_lua_socket_udp_retval_handler	./ngx_http_lua_socket_udp.h	/^    int (*ngx_http_lua_socket_udp_retval_handler)(ngx_http_request_t *r,$/;"	t
+ngx_http_lua_socket_udp_send	./ngx_http_lua_socket_udp.c	/^ngx_http_lua_socket_udp_send(lua_State *L)$/;"	f	file:
+ngx_http_lua_socket_udp_setpeername	./ngx_http_lua_socket_udp.c	/^ngx_http_lua_socket_udp_setpeername(lua_State *L)$/;"	f	file:
+ngx_http_lua_socket_udp_settimeout	./ngx_http_lua_socket_udp.c	/^ngx_http_lua_socket_udp_settimeout(lua_State *L)$/;"	f	file:
+ngx_http_lua_socket_udp_upstream_destroy	./ngx_http_lua_socket_udp.c	/^ngx_http_lua_socket_udp_upstream_destroy(lua_State *L)$/;"	f	file:
+ngx_http_lua_socket_udp_upstream_handler_pt	./ngx_http_lua_socket_udp.h	/^typedef void (*ngx_http_lua_socket_udp_upstream_handler_pt)($/;"	t
+ngx_http_lua_socket_udp_upstream_s	./ngx_http_lua_socket_udp.h	/^struct ngx_http_lua_socket_udp_upstream_s {$/;"	s
+ngx_http_lua_socket_udp_upstream_t	./ngx_http_lua_socket_udp.h	/^    ngx_http_lua_socket_udp_upstream_t;$/;"	t	typeref:struct:ngx_http_lua_socket_udp_upstream_s
+ngx_http_lua_socket_write_error_retval_handler	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_socket_write_error_retval_handler(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_ssl_free_session	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_ssl_free_session(lua_State *L)$/;"	f	file:
+ngx_http_lua_ssl_handshake_handler	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_ssl_handshake_handler(ngx_connection_t *c)$/;"	f	file:
+ngx_http_lua_ssl_handshake_retval_handler	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_ssl_handshake_retval_handler(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_ssl_protocols	./ngx_http_lua_module.c	/^static ngx_conf_bitmask_t  ngx_http_lua_ssl_protocols[] = {$/;"	v	file:
+ngx_http_lua_ssl_session_metatable_key	./ngx_http_lua_socket_tcp.c	/^static char ngx_http_lua_ssl_session_metatable_key;$/;"	v	file:
+ngx_http_lua_subrequest	./ngx_http_lua_subrequest.c	/^ngx_http_lua_subrequest(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_lua_subrequest_add_extra_vars	./ngx_http_lua_subrequest.c	/^ngx_http_lua_subrequest_add_extra_vars(ngx_http_request_t *sr,$/;"	f	file:
+ngx_http_lua_subrequest_resume	./ngx_http_lua_subrequest.c	/^ngx_http_lua_subrequest_resume(ngx_http_request_t *r)$/;"	f	file:
+ngx_http_lua_tcp_resolve_cleanup	./ngx_http_lua_socket_tcp.c	/^ngx_http_lua_tcp_resolve_cleanup(void *data)$/;"	f	file:
+ngx_http_lua_tcp_socket_metatable_key	./ngx_http_lua_socket_tcp.c	/^static char ngx_http_lua_tcp_socket_metatable_key;$/;"	v	file:
+ngx_http_lua_test_expect	./ngx_http_lua_util.c	/^ngx_http_lua_test_expect(ngx_http_request_t *r)$/;"	f
+ngx_http_lua_thread_traceback	./ngx_http_lua_util.c	/^ngx_http_lua_thread_traceback(lua_State *L, lua_State *co,$/;"	f	file:
+ngx_http_lua_timer_ctx_t	./ngx_http_lua_timer.c	/^} ngx_http_lua_timer_ctx_t;$/;"	t	typeref:struct:__anon36	file:
+ngx_http_lua_timer_handler	./ngx_http_lua_timer.c	/^ngx_http_lua_timer_handler(ngx_event_t *ev)$/;"	f	file:
+ngx_http_lua_trace_method	./ngx_http_lua_subrequest.c	/^ngx_str_t  ngx_http_lua_trace_method =$/;"	v
+ngx_http_lua_traceback	./ngx_http_lua_util.c	/^ngx_http_lua_traceback(lua_State *L)$/;"	f
+ngx_http_lua_udp_connect	./ngx_http_lua_socket_udp.c	/^ngx_http_lua_udp_connect(ngx_udp_connection_t *uc)$/;"	f	file:
+ngx_http_lua_udp_resolve_cleanup	./ngx_http_lua_socket_udp.c	/^ngx_http_lua_udp_resolve_cleanup(void *data)$/;"	f	file:
+ngx_http_lua_udp_socket_cleanup	./ngx_http_lua_socket_udp.c	/^ngx_http_lua_udp_socket_cleanup(void *data)$/;"	f	file:
+ngx_http_lua_udp_udata_metatable_key	./ngx_http_lua_socket_udp.c	/^static char ngx_http_lua_udp_udata_metatable_key;$/;"	v	file:
+ngx_http_lua_unescape_uri	./ngx_http_lua_util.c	/^ngx_http_lua_unescape_uri(u_char **dst, u_char **src, size_t size,$/;"	f
+ngx_http_lua_unlock_method	./ngx_http_lua_subrequest.c	/^ngx_str_t  ngx_http_lua_unlock_method =$/;"	v
+ngx_http_lua_upstream_udata_metatable_key	./ngx_http_lua_socket_tcp.c	/^static char ngx_http_lua_upstream_udata_metatable_key;$/;"	v	file:
+ngx_http_lua_user_coro_op_t	./ngx_http_lua_common.h	/^} ngx_http_lua_user_coro_op_t;$/;"	t	typeref:enum:__anon12
+ngx_http_lua_uthread_kill	./ngx_http_lua_uthread.c	/^ngx_http_lua_uthread_kill(lua_State *L)$/;"	f	file:
+ngx_http_lua_uthread_spawn	./ngx_http_lua_uthread.c	/^ngx_http_lua_uthread_spawn(lua_State *L)$/;"	f	file:
+ngx_http_lua_uthread_wait	./ngx_http_lua_uthread.c	/^ngx_http_lua_uthread_wait(lua_State *L)$/;"	f	file:
+ngx_http_lua_validate_host	./ngx_http_lua_headers_in.c	/^ngx_http_lua_validate_host(ngx_str_t *host, ngx_pool_t *pool, ngx_uint_t alloc)$/;"	f	file:
+ngx_http_lua_value_t	./api/ngx_http_lua_api.h	/^} ngx_http_lua_value_t;$/;"	t	typeref:struct:__anon1
+ngx_http_lua_var_get	./ngx_http_lua_variable.c	/^ngx_http_lua_var_get(lua_State *L)$/;"	f	file:
+ngx_http_lua_var_set	./ngx_http_lua_variable.c	/^ngx_http_lua_var_set(lua_State *L)$/;"	f	file:
+ngx_http_lua_version	./api/ngx_http_lua_api.h	22;"	d
+ngx_http_lua_vm_state_t	./ngx_http_lua_common.h	/^} ngx_http_lua_vm_state_t;$/;"	t	typeref:struct:__anon15
+ngx_http_lua_wev_handler	./ngx_http_lua_util.c	/^ngx_http_lua_wev_handler(ngx_http_request_t *r)$/;"	f
+ngx_http_lua_write_request_body	./ngx_http_lua_req_body.c	/^ngx_http_lua_write_request_body(ngx_http_request_t *r, ngx_chain_t *body)$/;"	f	file:
+ngx_http_next_body_filter	./ngx_http_lua_bodyfilterby.c	/^static ngx_http_output_body_filter_pt ngx_http_next_body_filter;$/;"	v	file:
+ngx_http_next_header_filter	./ngx_http_lua_headerfilterby.c	/^static ngx_http_output_header_filter_pt ngx_http_next_header_filter;$/;"	v	file:
+ngx_http_post_request_to_head	./ngx_http_lua_subrequest.c	/^ngx_http_post_request_to_head(ngx_http_request_t *r)$/;"	f	file:
+ngx_http_set_builtin_header	./ngx_http_lua_headers_in.c	/^ngx_http_set_builtin_header(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_set_builtin_header	./ngx_http_lua_headers_out.c	/^ngx_http_set_builtin_header(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_set_builtin_multi_header	./ngx_http_lua_headers_out.c	/^ngx_http_set_builtin_multi_header(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_set_connection_header	./ngx_http_lua_headers_in.c	/^ngx_http_set_connection_header(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_set_content_length_header	./ngx_http_lua_headers_in.c	/^ngx_http_set_content_length_header(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_set_content_length_header	./ngx_http_lua_headers_out.c	/^ngx_http_set_content_length_header(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_set_content_type_header	./ngx_http_lua_headers_out.c	/^ngx_http_set_content_type_header(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_set_cookie_header	./ngx_http_lua_headers_in.c	/^ngx_http_set_cookie_header(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_set_header	./ngx_http_lua_headers_in.c	/^ngx_http_set_header(ngx_http_request_t *r, ngx_http_lua_header_val_t *hv,$/;"	f	file:
+ngx_http_set_header	./ngx_http_lua_headers_out.c	/^ngx_http_set_header(ngx_http_request_t *r, ngx_http_lua_header_val_t *hv,$/;"	f	file:
+ngx_http_set_header_helper	./ngx_http_lua_headers_in.c	/^ngx_http_set_header_helper(ngx_http_request_t *r, ngx_http_lua_header_val_t *hv,$/;"	f	file:
+ngx_http_set_header_helper	./ngx_http_lua_headers_out.c	/^ngx_http_set_header_helper(ngx_http_request_t *r, ngx_http_lua_header_val_t *hv,$/;"	f	file:
+ngx_http_set_host_header	./ngx_http_lua_headers_in.c	/^ngx_http_set_host_header(ngx_http_request_t *r, ngx_http_lua_header_val_t *hv,$/;"	f	file:
+ngx_http_set_last_modified_header	./ngx_http_lua_headers_out.c	/^static ngx_int_t ngx_http_set_last_modified_header(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_set_location_header	./ngx_http_lua_headers_out.c	/^ngx_http_set_location_header(ngx_http_request_t *r,$/;"	f	file:
+ngx_http_set_user_agent_header	./ngx_http_lua_headers_in.c	/^ngx_http_set_user_agent_header(ngx_http_request_t *r,$/;"	f	file:
+ngx_memmove	./ngx_http_lua_util.h	74;"	d
+ngx_str_set	./ngx_http_lua_util.h	63;"	d
+no_abort	./ngx_http_lua_common.h	/^    unsigned         no_abort:1; \/* prohibit "world abortion" via ngx.exit()$/;"	m	struct:ngx_http_lua_ctx_s
+no_close	./ngx_http_lua_socket_tcp.h	/^    unsigned                         no_close:1;$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+no_override	./ngx_http_lua_common.h	/^    unsigned                                no_override;$/;"	m	struct:ngx_http_lua_header_val_s
+nsubreqs	./ngx_http_lua_common.h	/^    unsigned                 nsubreqs;  \/* number of subrequests of the$/;"	m	struct:ngx_http_lua_co_ctx_s
+offset	./ngx_http_lua_common.h	/^    ngx_uint_t                              offset;$/;"	m	struct:__anon16
+offset	./ngx_http_lua_common.h	/^    ngx_uint_t                              offset;$/;"	m	struct:ngx_http_lua_header_val_s
+old_pcre_free	./ngx_http_lua_pcrefix.c	/^static void (*old_pcre_free)(void *ptr);$/;"	v	file:
+old_pcre_malloc	./ngx_http_lua_pcrefix.c	/^static void *(*old_pcre_malloc)(size_t);$/;"	v	file:
+on_abort_co_ctx	./ngx_http_lua_common.h	/^    ngx_http_lua_co_ctx_t   *on_abort_co_ctx; \/* coroutine context for the$/;"	m	struct:ngx_http_lua_ctx_s
+options	./ngx_http_lua_regex.c	/^    ngx_int_t     options;$/;"	m	struct:__anon19	file:
+out	./ngx_http_lua_common.h	/^    ngx_chain_t             *out;  \/* buffered output chain for HTTP 1.0 *\/$/;"	m	struct:ngx_http_lua_ctx_s
+package	./ngx_http_lua_common.h	/^    u_char              *package;$/;"	m	struct:__anon10
+parent_co_ctx	./ngx_http_lua_common.h	/^    ngx_http_lua_co_ctx_t   *parent_co_ctx;$/;"	m	struct:ngx_http_lua_co_ctx_s
+pattern	./ngx_http_lua_regex.c	/^    const u_char                 *pattern;$/;"	m	struct:__anon18	file:
+pattern	./ngx_http_lua_regex.c	/^    ngx_str_t     pattern;$/;"	m	struct:__anon19	file:
+pattern	./ngx_http_lua_socket_tcp.h	/^    ngx_str_t                            pattern;$/;"	m	struct:__anon33
+peer	./ngx_http_lua_socket_tcp.h	/^    ngx_peer_connection_t            peer;$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+pending_subreqs	./ngx_http_lua_common.h	/^    unsigned                 pending_subreqs; \/* number of subrequests being$/;"	m	struct:ngx_http_lua_co_ctx_s
+pending_timers	./ngx_http_lua_common.h	/^    ngx_int_t            pending_timers;$/;"	m	struct:ngx_http_lua_main_conf_s
+pool	./ngx_http_lua_common.h	/^    ngx_pool_t          *pool;$/;"	m	struct:ngx_http_lua_main_conf_s
+pool	./ngx_http_lua_regex.c	/^    ngx_pool_t                   *pool;$/;"	m	struct:__anon18	file:
+pool	./ngx_http_lua_regex.c	/^    ngx_pool_t   *pool;$/;"	m	struct:__anon19	file:
+pool	./ngx_http_lua_script.h	/^    ngx_pool_t                      *pool;$/;"	m	struct:__anon23
+pool	./ngx_http_lua_script.h	/^    ngx_pool_t                 *pool;$/;"	m	struct:__anon21
+pool	./ngx_http_lua_timer.c	/^    ngx_pool_t   *pool;$/;"	m	struct:__anon36	file:
+pool_size	./ngx_http_lua_common.h	/^    ngx_uint_t                       pool_size;$/;"	m	struct:__anon11
+pos	./ngx_http_lua_script.h	/^    u_char                     *pos;$/;"	m	struct:__anon24
+posted_threads	./ngx_http_lua_common.h	/^    ngx_http_lua_posted_thread_t   *posted_threads;$/;"	m	struct:ngx_http_lua_ctx_s
+postponed_to_access_phase_end	./ngx_http_lua_common.h	/^    ngx_flag_t           postponed_to_access_phase_end;$/;"	m	struct:ngx_http_lua_main_conf_s
+postponed_to_rewrite_phase_end	./ngx_http_lua_common.h	/^    ngx_flag_t           postponed_to_rewrite_phase_end;$/;"	m	struct:ngx_http_lua_main_conf_s
+pr_co_ctx	./ngx_http_lua_subrequest.h	/^    ngx_http_lua_co_ctx_t       *pr_co_ctx;$/;"	m	struct:ngx_http_lua_post_subrequest_data_s
+preload_hooks	./ngx_http_lua_common.h	/^    ngx_array_t         *preload_hooks; \/* of ngx_http_lua_preload_hook_t *\/$/;"	m	struct:ngx_http_lua_main_conf_s
+premature	./ngx_http_lua_timer.c	/^    unsigned      premature;  \/* :1 *\/$/;"	m	struct:__anon36	file:
+prepare_retvals	./ngx_http_lua_socket_udp.h	/^    ngx_http_lua_socket_udp_retval_handler          prepare_retvals;$/;"	m	struct:ngx_http_lua_socket_udp_upstream_s
+ptr	./ngx_http_lua_clfactory.c	/^        char   *ptr;$/;"	m	union:__anon5::__anon6	file:
+ptr	./ngx_http_lua_clfactory.c	/^        char   *ptr;$/;"	m	union:__anon5::__anon7	file:
+queue	./ngx_http_lua_shdict.h	/^    ngx_queue_t                   queue;$/;"	m	struct:__anon28
+queue	./ngx_http_lua_shdict.h	/^    ngx_queue_t                  queue;$/;"	m	struct:__anon27
+queue	./ngx_http_lua_socket_tcp.h	/^    ngx_queue_t                      queue;$/;"	m	struct:__anon34
+raw_downstream	./ngx_http_lua_socket_tcp.h	/^    unsigned                         raw_downstream:1;$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+rbtree	./ngx_http_lua_shdict.h	/^    ngx_rbtree_t                  rbtree;$/;"	m	struct:__anon28
+read_body_done	./ngx_http_lua_common.h	/^    unsigned         read_body_done:1;      \/* 1: request body has been all$/;"	m	struct:ngx_http_lua_ctx_s
+read_closed	./ngx_http_lua_socket_tcp.h	/^    unsigned                         read_closed:1;$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+read_co_ctx	./ngx_http_lua_socket_tcp.h	/^    ngx_http_lua_co_ctx_t           *read_co_ctx;$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+read_event_handler	./ngx_http_lua_socket_tcp.h	/^    ngx_http_lua_socket_tcp_upstream_handler_pt     read_event_handler;$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+read_event_handler	./ngx_http_lua_socket_udp.h	/^    ngx_http_lua_socket_udp_upstream_handler_pt     read_event_handler;$/;"	m	struct:ngx_http_lua_socket_udp_upstream_s
+read_prepare_retvals	./ngx_http_lua_socket_tcp.h	/^    ngx_http_lua_socket_tcp_retval_handler          read_prepare_retvals;$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+read_timeout	./ngx_http_lua_common.h	/^    ngx_msec_t                       read_timeout;$/;"	m	struct:__anon11
+read_timeout	./ngx_http_lua_socket_tcp.h	/^    ngx_msec_t                       read_timeout;$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+read_timeout	./ngx_http_lua_socket_udp.h	/^    ngx_msec_t                       read_timeout;$/;"	m	struct:ngx_http_lua_socket_udp_upstream_s
+read_waiting	./ngx_http_lua_socket_tcp.h	/^    unsigned                         read_waiting:1;$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+received	./ngx_http_lua_socket_udp.h	/^    size_t                           received; \/* for receive *\/$/;"	m	struct:ngx_http_lua_socket_udp_upstream_s
+recovering	./ngx_http_lua_socket_tcp.h	/^    ngx_http_lua_dfa_edge_t            **recovering;$/;"	m	struct:__anon33
+recv_buf_size	./ngx_http_lua_socket_udp.h	/^    size_t                           recv_buf_size;$/;"	m	struct:ngx_http_lua_socket_udp_upstream_s
+ref	./ngx_http_lua_ctx.c	/^    int              ref;$/;"	m	struct:__anon17	file:
+regex	./ngx_http_lua_regex.c	/^    pcre                         *regex;$/;"	m	struct:__anon18	file:
+regex	./ngx_http_lua_regex.c	/^    pcre                    *regex;$/;"	m	struct:__anon20	file:
+regex	./ngx_http_lua_regex.c	/^    pcre         *regex;$/;"	m	struct:__anon19	file:
+regex_cache_entries	./ngx_http_lua_common.h	/^    ngx_int_t            regex_cache_entries;$/;"	m	struct:ngx_http_lua_main_conf_s
+regex_cache_max_entries	./ngx_http_lua_common.h	/^    ngx_int_t            regex_cache_max_entries;$/;"	m	struct:ngx_http_lua_main_conf_s
+regex_match_limit	./ngx_http_lua_common.h	/^    ngx_int_t            regex_match_limit;$/;"	m	struct:ngx_http_lua_main_conf_s
+regex_sd	./ngx_http_lua_regex.c	/^    pcre_extra                   *regex_sd;$/;"	m	struct:__anon18	file:
+regex_sd	./ngx_http_lua_regex.c	/^    pcre_extra              *regex_sd;$/;"	m	struct:__anon20	file:
+replace	./ngx_http_lua_regex.c	/^    ngx_http_lua_complex_value_t    *replace;$/;"	m	struct:__anon18	file:
+request	./ngx_http_lua_common.h	/^    ngx_http_request_t      *request;$/;"	m	struct:ngx_http_lua_ctx_s
+request	./ngx_http_lua_regex.c	/^    ngx_http_request_t      *request;$/;"	m	struct:__anon20	file:
+request	./ngx_http_lua_socket_tcp.h	/^    ngx_http_request_t              *request;$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+request	./ngx_http_lua_socket_udp.h	/^    ngx_http_request_t              *request;$/;"	m	struct:ngx_http_lua_socket_udp_upstream_s
+request_bufs	./ngx_http_lua_socket_tcp.h	/^    ngx_chain_t                     *request_bufs;$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+request_len	./ngx_http_lua_socket_tcp.h	/^    size_t                           request_len;$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+requires_access	./ngx_http_lua_common.h	/^    unsigned             requires_access:1;$/;"	m	struct:ngx_http_lua_main_conf_s
+requires_body_filter	./ngx_http_lua_common.h	/^    unsigned             requires_body_filter:1;$/;"	m	struct:ngx_http_lua_main_conf_s
+requires_capture_filter	./ngx_http_lua_common.h	/^    unsigned             requires_capture_filter:1;$/;"	m	struct:ngx_http_lua_main_conf_s
+requires_header_filter	./ngx_http_lua_common.h	/^    unsigned             requires_header_filter:1;$/;"	m	struct:ngx_http_lua_main_conf_s
+requires_log	./ngx_http_lua_common.h	/^    unsigned             requires_log:1;$/;"	m	struct:ngx_http_lua_main_conf_s
+requires_rewrite	./ngx_http_lua_common.h	/^    unsigned             requires_rewrite:1;$/;"	m	struct:ngx_http_lua_main_conf_s
+requires_shm	./ngx_http_lua_common.h	/^    unsigned             requires_shm:1;$/;"	m	struct:ngx_http_lua_main_conf_s
+resolved	./ngx_http_lua_socket_tcp.h	/^    ngx_http_upstream_resolved_t    *resolved;$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+resolved	./ngx_http_lua_socket_udp.h	/^    ngx_http_upstream_resolved_t    *resolved;$/;"	m	struct:ngx_http_lua_socket_udp_upstream_s
+rest	./ngx_http_lua_socket_tcp.h	/^    size_t                           rest;$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+rest_len	./ngx_http_lua_clfactory.c	/^    size_t      rest_len;$/;"	m	struct:__anon5	file:
+resume_handler	./ngx_http_lua_common.h	/^    ngx_http_handler_pt      resume_handler;$/;"	m	struct:ngx_http_lua_ctx_s
+reused	./ngx_http_lua_socket_tcp.h	/^    ngx_uint_t                       reused;$/;"	m	struct:__anon34
+reused	./ngx_http_lua_socket_tcp.h	/^    ngx_uint_t                       reused;$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+rewrite_chunkname	./ngx_http_lua_common.h	/^    u_char                  *rewrite_chunkname;$/;"	m	struct:__anon11
+rewrite_handler	./ngx_http_lua_common.h	/^    ngx_http_handler_pt     rewrite_handler;$/;"	m	struct:__anon11
+rewrite_src	./ngx_http_lua_common.h	/^    ngx_http_complex_value_t rewrite_src;    \/*  rewrite_by_lua$/;"	m	struct:__anon11
+rewrite_src_key	./ngx_http_lua_common.h	/^    u_char                  *rewrite_src_key; \/* cached key for rewrite_src *\/$/;"	m	struct:__anon11
+run_post_subrequest	./ngx_http_lua_common.h	/^    unsigned                 run_post_subrequest:1; \/* whether it has run$/;"	m	struct:ngx_http_lua_ctx_s
+running_timers	./ngx_http_lua_common.h	/^    ngx_int_t            running_timers;$/;"	m	struct:ngx_http_lua_main_conf_s
+s	./api/ngx_http_lua_api.h	/^        ngx_str_t   s; \/* string *\/$/;"	m	union:__anon1::__anon2
+s	./ngx_http_lua_clfactory.c	/^    const char *s;$/;"	m	struct:__anon8	file:
+script	./ngx_http_lua_common.h	/^    ngx_str_t    script;$/;"	m	struct:__anon9
+seen_last_for_subreq	./ngx_http_lua_common.h	/^    unsigned         seen_last_for_subreq:1; \/* used by body capture filter *\/$/;"	m	struct:ngx_http_lua_ctx_s
+seen_last_in_filter	./ngx_http_lua_common.h	/^    unsigned         seen_last_in_filter:1;  \/* used by body_filter_by_lua* *\/$/;"	m	struct:ngx_http_lua_ctx_s
+send_lowat	./ngx_http_lua_common.h	/^    size_t                           send_lowat;$/;"	m	struct:__anon11
+send_timeout	./ngx_http_lua_common.h	/^    ngx_msec_t                       send_timeout;$/;"	m	struct:__anon11
+send_timeout	./ngx_http_lua_socket_tcp.h	/^    ngx_msec_t                       send_timeout;$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+sent_begin	./ngx_http_lua_clfactory.c	/^    int         sent_begin;$/;"	m	struct:__anon5	file:
+sent_begin	./ngx_http_lua_clfactory.c	/^    int         sent_begin;$/;"	m	struct:__anon8	file:
+sent_end	./ngx_http_lua_clfactory.c	/^    int         sent_end;$/;"	m	struct:__anon5	file:
+sent_end	./ngx_http_lua_clfactory.c	/^    int         sent_end;$/;"	m	struct:__anon8	file:
+sentinel	./ngx_http_lua_shdict.h	/^    ngx_rbtree_node_t             sentinel;$/;"	m	struct:__anon28
+sh	./ngx_http_lua_shdict.h	/^    ngx_http_lua_shdict_shctx_t  *sh;$/;"	m	struct:__anon29
+shm_zones	./ngx_http_lua_common.h	/^    ngx_array_t         *shm_zones;  \/* of ngx_shm_zone_t* *\/$/;"	m	struct:ngx_http_lua_main_conf_s
+shm_zones_inited	./ngx_http_lua_common.h	/^    ngx_uint_t                      shm_zones_inited;$/;"	m	struct:ngx_http_lua_main_conf_s
+shpool	./ngx_http_lua_shdict.h	/^    ngx_slab_pool_t              *shpool;$/;"	m	struct:__anon29
+size	./ngx_http_lua_clfactory.c	/^    size_t      size;$/;"	m	struct:__anon8	file:
+size	./ngx_http_lua_common.h	/^    size_t       size;$/;"	m	struct:__anon9
+skip	./ngx_http_lua_script.h	/^    unsigned                    skip:1;$/;"	m	struct:__anon24
+sleep	./ngx_http_lua_common.h	/^    ngx_event_t              sleep;  \/* used for ngx.sleep *\/$/;"	m	struct:ngx_http_lua_co_ctx_s
+sockaddr	./ngx_http_lua_socket_tcp.h	/^    struct sockaddr_storage          sockaddr;$/;"	m	struct:__anon34	typeref:struct:__anon34::sockaddr_storage
+socket_errno	./ngx_http_lua_socket_tcp.h	/^    ngx_err_t                        socket_errno;$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+socket_errno	./ngx_http_lua_socket_udp.h	/^    ngx_err_t                        socket_errno;$/;"	m	struct:ngx_http_lua_socket_udp_upstream_s
+socket_pool	./ngx_http_lua_socket_tcp.h	/^    ngx_http_lua_socket_pool_t      *socket_pool;$/;"	m	struct:__anon34
+socket_pool	./ngx_http_lua_socket_tcp.h	/^    ngx_http_lua_socket_pool_t      *socket_pool;$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+socklen	./ngx_http_lua_socket_tcp.h	/^    socklen_t                        socklen;$/;"	m	struct:__anon34
+source	./ngx_http_lua_script.h	/^    ngx_str_t                  *source;$/;"	m	struct:__anon21
+sr_bodies	./ngx_http_lua_common.h	/^    ngx_str_t               *sr_bodies;   \/* all captured subrequest bodies *\/$/;"	m	struct:ngx_http_lua_co_ctx_s
+sr_flags	./ngx_http_lua_common.h	/^    uint8_t                 *sr_flags;$/;"	m	struct:ngx_http_lua_co_ctx_s
+sr_headers	./ngx_http_lua_common.h	/^    ngx_http_headers_out_t **sr_headers;$/;"	m	struct:ngx_http_lua_co_ctx_s
+sr_statuses	./ngx_http_lua_common.h	/^    ngx_int_t               *sr_statuses; \/* all capture subrequest statuses *\/$/;"	m	struct:ngx_http_lua_co_ctx_s
+srv_conf	./ngx_http_lua_timer.c	/^    void        **srv_conf;$/;"	m	struct:__anon36	file:
+ssl	./ngx_http_lua_common.h	/^    ngx_ssl_t              *ssl;  \/* shared by SSL cosockets *\/$/;"	m	struct:__anon11
+ssl_ciphers	./ngx_http_lua_common.h	/^    ngx_str_t               ssl_ciphers;$/;"	m	struct:__anon11
+ssl_crl	./ngx_http_lua_common.h	/^    ngx_str_t               ssl_crl;$/;"	m	struct:__anon11
+ssl_name	./ngx_http_lua_socket_tcp.h	/^    ngx_str_t                        ssl_name;$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+ssl_protocols	./ngx_http_lua_common.h	/^    ngx_uint_t              ssl_protocols;$/;"	m	struct:__anon11
+ssl_session_reuse	./ngx_http_lua_socket_tcp.h	/^    unsigned                         ssl_session_reuse:1;$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+ssl_trusted_certificate	./ngx_http_lua_common.h	/^    ngx_str_t               ssl_trusted_certificate;$/;"	m	struct:__anon11
+ssl_verify	./ngx_http_lua_socket_tcp.h	/^    unsigned                         ssl_verify:1;$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+ssl_verify_depth	./ngx_http_lua_common.h	/^    ngx_uint_t              ssl_verify_depth;$/;"	m	struct:__anon11
+state	./ngx_http_lua_socket_tcp.h	/^    int                                  state;$/;"	m	struct:__anon33
+str	./ngx_http_lua_clfactory.c	/^        char    str[MAX_BEGIN_CODE_SIZE];$/;"	m	union:__anon5::__anon6	file:
+str	./ngx_http_lua_clfactory.c	/^        char    str[MAX_END_CODE_SIZE];$/;"	m	union:__anon5::__anon7	file:
+thread_spawn_yielded	./ngx_http_lua_common.h	/^    unsigned                 thread_spawn_yielded:1; \/* yielded from$/;"	m	struct:ngx_http_lua_co_ctx_s
+transform_underscores_in_resp_headers	./ngx_http_lua_common.h	/^    ngx_flag_t                       transform_underscores_in_resp_headers;$/;"	m	struct:__anon11
+type	./api/ngx_http_lua_api.h	/^    uint8_t         type;$/;"	m	struct:__anon1
+udp_connection	./ngx_http_lua_socket_udp.h	/^    ngx_udp_connection_t             udp_connection;$/;"	m	struct:ngx_http_lua_socket_udp_upstream_s
+upstream	./ngx_http_lua_socket_tcp.h	/^    ngx_http_lua_socket_tcp_upstream_t  *upstream;$/;"	m	struct:__anon33
+use_default_type	./ngx_http_lua_common.h	/^    ngx_flag_t                       use_default_type;$/;"	m	struct:__anon11
+user_co_ctx	./ngx_http_lua_common.h	/^    ngx_list_t              *user_co_ctx; \/* coroutine contexts for user$/;"	m	struct:ngx_http_lua_ctx_s
+user_flags	./ngx_http_lua_shdict.h	/^    uint32_t                     user_flags;$/;"	m	struct:__anon27
+uthreads	./ngx_http_lua_common.h	/^    int                      uthreads; \/* number of active user threads *\/$/;"	m	struct:ngx_http_lua_ctx_s
+value	./api/ngx_http_lua_api.h	/^    } value;$/;"	m	struct:__anon1	typeref:union:__anon1::__anon2
+value	./ngx_http_lua_common.h	/^    ngx_http_complex_value_t                value;$/;"	m	struct:ngx_http_lua_header_val_s
+value	./ngx_http_lua_script.h	/^    ngx_str_t                       *value;$/;"	m	struct:__anon23
+value	./ngx_http_lua_script.h	/^    ngx_str_t                   value;$/;"	m	struct:__anon22
+value	./ngx_http_lua_util.h	/^    ngx_http_lua_ffi_str_t   value;$/;"	m	struct:__anon38
+value_len	./ngx_http_lua_shdict.h	/^    uint32_t                     value_len;$/;"	m	struct:__anon27
+value_type	./ngx_http_lua_shdict.h	/^    uint8_t                      value_type;$/;"	m	struct:__anon27
+values	./ngx_http_lua_script.h	/^    ngx_array_t               **values;$/;"	m	struct:__anon21
+values	./ngx_http_lua_script.h	/^    void                       *values;$/;"	m	struct:__anon22
+variables	./ngx_http_lua_script.h	/^    ngx_uint_t                  variables;$/;"	m	struct:__anon21
+vm	./ngx_http_lua_common.h	/^    lua_State       *vm;$/;"	m	struct:__anon15
+vm	./ngx_http_lua_ctx.c	/^    lua_State       *vm;$/;"	m	struct:__anon17	file:
+vm_state	./ngx_http_lua_common.h	/^    ngx_http_lua_vm_state_t  *vm_state;$/;"	m	struct:ngx_http_lua_ctx_s
+vm_state	./ngx_http_lua_timer.c	/^    ngx_http_lua_vm_state_t           *vm_state;$/;"	m	struct:__anon36	file:
+waited_by_parent	./ngx_http_lua_common.h	/^    unsigned                 waited_by_parent:1;  \/* whether being waited by$/;"	m	struct:ngx_http_lua_co_ctx_s
+waiting	./ngx_http_lua_socket_udp.h	/^    unsigned                         waiting; \/* :1 *\/$/;"	m	struct:ngx_http_lua_socket_udp_upstream_s
+waiting_more_body	./ngx_http_lua_common.h	/^    unsigned                 waiting_more_body:1;   \/* 1: waiting for more$/;"	m	struct:ngx_http_lua_ctx_s
+watcher	./ngx_http_lua_common.h	/^    ngx_connection_t    *watcher;  \/* for watching the process exit event *\/$/;"	m	struct:ngx_http_lua_main_conf_s
+write_closed	./ngx_http_lua_socket_tcp.h	/^    unsigned                         write_closed:1;$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+write_co_ctx	./ngx_http_lua_socket_tcp.h	/^    ngx_http_lua_co_ctx_t           *write_co_ctx;$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+write_event_handler	./ngx_http_lua_socket_tcp.h	/^    ngx_http_lua_socket_tcp_upstream_handler_pt     write_event_handler;$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+write_prepare_retvals	./ngx_http_lua_socket_tcp.h	/^    ngx_http_lua_socket_tcp_retval_handler          write_prepare_retvals;$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+write_waiting	./ngx_http_lua_socket_tcp.h	/^    unsigned                         write_waiting:1;$/;"	m	struct:ngx_http_lua_socket_tcp_upstream_s
+writing_raw_req_socket	./ngx_http_lua_common.h	/^    unsigned         writing_raw_req_socket:1; \/* used by raw downstream$/;"	m	struct:ngx_http_lua_ctx_s
+zombie_child_threads	./ngx_http_lua_common.h	/^    ngx_http_lua_posted_thread_t    *zombie_child_threads;$/;"	m	struct:ngx_http_lua_co_ctx_s
